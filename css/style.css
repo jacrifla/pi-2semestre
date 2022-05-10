@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+    background-color: #f2f2f2;
+}
+footer{
+    background-color: #0d0d0d;
+    color: #f2f2f2;
+    padding: 1em
+}
+a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+.card{
+    border: #0d0d0d solid 1px;
+}
+header{
+    background-color: white;
+}
+ul li {
+    list-style: none;
+}
