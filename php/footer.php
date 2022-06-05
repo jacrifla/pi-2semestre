@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
@@ -23,9 +26,9 @@
             <div class="col">
                 <h4>Tripartite</h4>
                 <ul>
-                    <li><a href="#">Executivo</a></li>
-                    <li><a href="legislativo.html">Legislativo</a></li>
-                    <li><a href="#">Judiciário</a></li>
+                    <li><a href="executivo.php">Executivo</a></li>
+                    <li><a href="legislativo.php">Legislativo</a></li>
+                    <li><a href="judiciario.php">Judiciário</a></li>
                 </ul>
             </div>
 
@@ -53,21 +56,23 @@
                     <li><a href="#">Linha do Tempo - Presidentes</a></li>
                     <li><a href="#">Galeria - Juízes do STF</a></li>
                     <li><a href="#">Contato</a></li>
-                    <li><a href="#">Quem Somos</a></li>
+                    <li><a href="quem-somos.php">Quem Somos</a></li>
                 </ul>
             </div>
 
         </div>
 
         <div class="row text-center">
-            <small>© 2022 - Ursinhos Felizes em Chamas - Todos os direitos reservados</small>
+            <small>© 2022 - <a href="quem-somos.php">Ursinhos Felizes em Chamas</a> - Todos os direitos reservados</small>
         </div>
 
         <div class="row text-center">
-            <small>Clique aqui <a href="quem-somos.html"><img src="imagens/120069.png"></a> veja nossas normas de
+            <small>Clique aqui <a href="normas-de-uso.php"><img src="imagens/120069.png"></a> veja nossas normas de
                 uso</small>
         </div>
     </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 
 </html>
