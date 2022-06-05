@@ -3,3 +3,32 @@
 body{
     background-color: #f2f2f2;
 }
+
+footer{
+    margin-top: 1em;
+    background-color: #0d0d0d;
+    padding: 1em;
+}
+footer a{
+    color: #f2f2f2;
+    text-decoration: none;
+}
+footer li{
+    list-style: none;
+}
+footer ul{
+
+    padding-inline-start: 0;
+}
+footer>h3>h4{
+    color: #f2f2f2;
+}
+small{
+    color: #f2f2f2;
+}
+p{
+    text-align: justify;
+}
+.botao{
+    border-radius: 3em;
+}
