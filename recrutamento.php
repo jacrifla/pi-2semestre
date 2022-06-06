@@ -12,6 +12,8 @@
     
 </head>
 <body>
+    <?php include_once('php/header.php'); ?>
+
     <div class="container-fluid">
         <main class="d-flex justify-content-center m-2 row">
             <article class="col-md-4 me-6">
@@ -21,7 +23,7 @@
             <form class="col-md-5">
                 <div class="mb-3">
                     <label for="nome" class="form-label">Nome:</label>
-                    <input type="email" class="form-control" id="nome" placeholder="John Doe">
+                    <input type="text" class="form-control" id="nome" placeholder="John Doe">
                 </div>
                 <div class="mb-3">
                     <label for="email" class="form-label">Email:</label>
@@ -44,6 +46,7 @@
         </main>
 
     </div>
+    <?php include_once('php/footer.php'); ?>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
