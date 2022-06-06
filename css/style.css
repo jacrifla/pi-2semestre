@@ -3,6 +3,9 @@
 body{
     background-color: #f2f2f2;
 }
+header{
+    background-color: #0d0d0d;
+}
 
 footer{
     margin-top: 1em;
