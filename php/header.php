@@ -5,25 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-</head>
-<body>
-    <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    
-</body>
-</html>
-
-        <header class="text-center">
+    <header class="text-center">
             <img class="img-fluid" src="imagens/portal-intelecto.png" alt="">
         </header>
         <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0d0d0d;">
@@ -37,33 +24,33 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                     </li>
                     
                     <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="DropdownConceitos" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Conceitos
                     </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <ul class="dropdown-menu" aria-labelledby="DropdownConceitos">
                         <li><a class="dropdown-item" href="#">Cidadania</a></li>
                         <li><a class="dropdown-item" href="#">Democracia vs Autoritarismo</a></li>
                     </ul>
                     </li>
                     <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="DropdownTripartite" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Tripartite
                     </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="executivo.php">Executivo</a></li>
-                        <li><a class="dropdown-item" href="legislativo.php">Legislativo</a></li>
-                        <li><a class="dropdown-item" href="judiciario.php">Judiciário</a></li>
+                    <ul class="dropdown-menu" aria-labelledby="DropdownTripartite">
+                        <li><a class="dropdown-item" href="executivo.html">Executivo</a></li>
+                        <li><a class="dropdown-item" href="legislativo.html">Legislativo</a></li>
+                        <li><a class="dropdown-item" href="judiciario.html">Judiciário</a></li>
                     </ul>
                     </li>
                     <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="DropdownCargos" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Cargos
                     </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <ul class="dropdown-menu" aria-labelledby="DropdownCargos">
                         <li><a class="dropdown-item" href="#">Presidente</a></li>
                         <li><a class="dropdown-item" href="#">Senadores</a></li>
                         <li><a class="dropdown-item" href="#">Deputados Federais</a></li>
@@ -71,10 +58,10 @@
                     </ul>
                     </li>
                     <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="DropdownCandidaturas" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Candidaturas
                     </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <ul class="dropdown-menu" aria-labelledby="DropdownCandidaturas">
                         <li><a class="dropdown-item" href="#">Presidente</a></li>
                         <li><a class="dropdown-item" href="#">Senadores</a></li>
                     </ul>
@@ -91,7 +78,7 @@
                     <a href="#" class="nav-link">Contato</a>
                     </li>
                     <li class="nav-item">
-                    <a href="quem-somos.php" class="nav-link">Quem Somos</a>
+                    <a href="quem-somos.html" class="nav-link">Quem Somos</a>
                     </li>
                 </ul>
                 
