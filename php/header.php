@@ -13,10 +13,10 @@
     <header class="text-center">
             <img class="img-fluid" src="imagens/portal-intelecto.png" alt="">
         </header>
-        <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0d0d0d;">
+        <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.php">
-                <img src="imagens/icon-menu48x48.png" alt="" width="30" height="24">
+                <img src="imagens/icon-menu48x48.png" alt="logo do site" >
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -41,22 +41,11 @@
                         Tripartite
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="DropdownTripartite">
-                        <li><a class="dropdown-item" href="executivo.html">Executivo</a></li>
-                        <li><a class="dropdown-item" href="legislativo.html">Legislativo</a></li>
-                        <li><a class="dropdown-item" href="judiciario.html">Judiciário</a></li>
+                        <li><a class="dropdown-item" href="executivo.php">Executivo</a></li>
+                        <li><a class="dropdown-item" href="legislativo.php">Legislativo</a></li>
+                        <li><a class="dropdown-item" href="judiciario.php">Judiciário</a></li>
                     </ul>
-                    </li>
-                    <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="DropdownCargos" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Cargos
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="DropdownCargos">
-                        <li><a class="dropdown-item" href="#">Presidente</a></li>
-                        <li><a class="dropdown-item" href="#">Senadores</a></li>
-                        <li><a class="dropdown-item" href="#">Deputados Federais</a></li>
-                        <li><a class="dropdown-item" href="#">Juízes do STF</a></li>
-                    </ul>
-                    </li>
+                    </li>                 
                     <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="DropdownCandidaturas" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Candidaturas
@@ -66,19 +55,19 @@
                         <li><a class="dropdown-item" href="#">Senadores</a></li>
                     </ul>
                     </li>
-
+                    <li class="nav-item"><a href="partidos.php" class="nav-link">Cargos</a></li>
                     <li class="nav-item">
-                    <a href="#" class="nav-link">Partidos</a>
+                    <a href="partidos.php" class="nav-link">Partidos</a>
                     </li>
                     <li class="nav-item">
-                    <a href="#" class="nav-link">Linha do Tempo</a>
+                    <a href="linha_do_tempo.php" class="nav-link">Linha do Tempo</a>
                     </li><li class="nav-item">
-                    <a href="#" class="nav-link">Galeria</a>
+                    <a href="galeria_juizes.php" class="nav-link">Galeria</a>
                     </li><li class="nav-item">
-                    <a href="#" class="nav-link">Contato</a>
+                    <a href="contato.php" class="nav-link">Contato</a>
                     </li>
                     <li class="nav-item">
-                    <a href="quem-somos.html" class="nav-link">Quem Somos</a>
+                    <a href="quem-somos.php" class="nav-link">Quem Somos</a>
                     </li>
                 </ul>
                 

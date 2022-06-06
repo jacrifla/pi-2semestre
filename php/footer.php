@@ -33,16 +33,6 @@
             </div>
 
             <div class="col">
-                <h4>Cargos</h4>
-                <ul>
-                    <li><a href="#">Presidente</a></li>
-                    <li><a href="#">Senadores</a></li>
-                    <li><a href="#">Deputados Federais</a></li>
-                    <li><a href="#">Juízes do STF</a></li>
-                </ul>
-            </div>
-
-            <div class="col">
                 <h4>Candidaturas</h4>
                 <ul>
                     <li><a href="#">Presidente</a></li>
@@ -52,10 +42,11 @@
 
             <div class="col">
                 <ul>
-                    <li><a href="#">Partidos</a></li>
-                    <li><a href="#">Linha do Tempo - Presidentes</a></li>
-                    <li><a href="#">Galeria - Juízes do STF</a></li>
-                    <li><a href="#">Contato</a></li>
+                    <li><a href="cargos.php">Cargos</a></li>
+                    <li><a href="partidos.php">Partidos</a></li>
+                    <li><a href="linha_do_tempo.php">Linha do Tempo - Presidentes</a></li>
+                    <li><a href="galeria_juizes.php">Galeria - Juízes do STF</a></li>
+                    <li><a href="contato.php">Contato</a></li>
                     <li><a href="quem-somos.php">Quem Somos</a></li>
                 </ul>
             </div>
