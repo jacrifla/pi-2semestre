@@ -12,9 +12,9 @@
 </head>
 
 <body>
-    <footer>
+    <footer id="footer paleta-preto-bg">
         <div class="row">
-            <h3>Mapa do Site</h3>
+            <h3 class="paleta-branco-color">Mapa do Site</h3>
             <div class="col">
                 <h4>Conceitos</h4>
                 <ul>
@@ -24,7 +24,7 @@
             </div>
 
             <div class="col">
-                <h4>Tripartite</h4>
+                <h4 class="paleta-branco-color">Tripartite</h4>
                 <ul>
                     <li><a href="executivo.php">Executivo</a></li>
                     <li><a href="legislativo.php">Legislativo</a></li>
@@ -33,7 +33,7 @@
             </div>
 
             <div class="col">
-                <h4>Candidaturas</h4>
+                <h4 class="paleta-branco-color">Candidaturas</h4>
                 <ul>
                     <li><a href="#">Presidente</a></li>
                     <li><a href="#">Senadores</a></li>
@@ -54,11 +54,11 @@
         </div>
 
         <div class="row text-center">
-            <small>© 2022 - <a href="quem-somos.php">Ursinhos Felizes em Chamas</a> - Todos os direitos reservados</small>
+            <small class="paleta-branco-color" >© 2022 - <a class="paleta-cinza-color" href="quem-somos.php">Ursinhos Felizes em Chamas</a> - Todos os direitos reservados</small>
         </div>
 
         <div class="row text-center">
-            <small>Clique aqui <a href="normas-de-uso.php"><img src="imagens/120069.png"></a> veja nossas normas de
+            <small class="paleta-branco-color">Clique aqui <a href="normas-de-uso.php"><img src="imagens/120069.png"></a> veja nossas normas de
                 uso</small>
         </div>
     </footer>
