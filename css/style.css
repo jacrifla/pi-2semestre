@@ -29,7 +29,7 @@ footer>h3>h4{
 small{
     color: #f2f2f2;
 }
-p{
+#judiciario p, #legislativo p, #executivo p{
     text-align: justify;
 }
 .botao{
