@@ -16,7 +16,7 @@
         <div class="row">
             <h3 class="paleta-branco-color">Mapa do Site</h3>
             <div class="col">
-                <h4>Conceitos</h4>
+                <h4 class="paleta-branco-color">Conceitos</h4>
                 <ul>
                     <li><a href="cidadania.php">Cidadania</a></li>
                     <li><a href="democracia_autoritarismo.php">Democracia vs Autoritarismo</a></li>
