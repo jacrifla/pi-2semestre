@@ -18,7 +18,7 @@
         <main class="d-flex justify-content-center m-2 row">
             <article class="col-md-4 me-6">
                 <h1>Recrutamento</h1>
-                <p>Não se assuste com essa sessão é só pra você fazer parte do pessoal e compartilhar conteúdos conosco! Estamos ansiosos para você se juntar a causa.</p>
+                <p>Não se assuste com essa página. Ela é somente pra você fazer parte do pessoal e compartilhar conteúdos conosco! Estamos ansiosos para você se juntar a causa.</p>
             </article>
             <form class="col-md-5">
                 <div class="mb-3">
