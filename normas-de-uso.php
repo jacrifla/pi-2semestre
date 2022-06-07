@@ -14,7 +14,8 @@
     </head>
 
     <body>
-        <div class="container-fluid">
+    <?php include_once('php/header.php'); ?>
+        <div class="container">
 
         <article class="mx-5">
             <h1 class="text-center">Termos e condições de uso</h1>
@@ -77,7 +78,7 @@
         </article>
         
         </div>
-
+        <?php include_once('php/footer.php'); ?>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
         </script>
