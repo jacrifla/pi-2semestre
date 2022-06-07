@@ -8,18 +8,22 @@
   <title>Home</title>
   <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
 
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link rel="stylesheet" href="css/style.css">
 
 </head>
 
 <body>
+  <?php include_once('php/header.php'); ?>
   <div class="container-fluid">
 
     <article class="d-sm-flex align-items-end justify-content-sm-center my-3">
       <div class="align-self-center col-md-3 p-4">
         <h1>Bem Vindo,</h1>
-        <p>Portal Intelecto foi desenvolvido como um porta-voz à todos os brasileiros que desejam conhecer mais sobre a democracia presidencialista no Brasil. Além de oferecer o conteúdo teórico e histórico de forma leve, também unifica em uma só
+        <p>Portal Intelecto foi desenvolvido como um porta-voz à todos os brasileiros que desejam conhecer mais sobre a
+          democracia presidencialista no Brasil. Além de oferecer o conteúdo teórico e histórico de forma leve, também
+          unifica em uma só
           plataforma os partidos, candidaturas e propostas atuais do país.</p>
       </div>
 
@@ -33,7 +37,8 @@
           <section class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-3">
-                <img src="imagens/ico-candidaturas.png" class="img-fluid rounded-start" alt="icone representando candidaturas">
+                <img src="imagens/ico-candidaturas.png" class="img-fluid rounded-start"
+                  alt="icone representando candidaturas">
               </div>
               <div class="col-md-8">
                 <div class="card-body">
@@ -49,7 +54,8 @@
           <section class="card mb-3 " style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-3">
-                <img src="imagens/ico-cidadania.png" class="img-fluid rounded-start" alt="icone representando cidadania">
+                <img src="imagens/ico-cidadania.png" class="img-fluid rounded-start"
+                  alt="icone representando cidadania">
               </div>
               <div class="col-md-8">
                 <div class="card-body">
@@ -68,7 +74,8 @@
           <section class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-3">
-                <img src="imagens/ico-linha-tempo.png" class="img-fluid rounded-start" alt="icone representando linha do tempo">
+                <img src="imagens/ico-linha-tempo.png" class="img-fluid rounded-start"
+                  alt="icone representando linha do tempo">
               </div>
               <div class="col-md-8">
                 <div class="card-body">
@@ -84,7 +91,8 @@
           <section class="card mb-3" style="max-width: 540px;">
             <div class="row g-0">
               <div class="col-md-3">
-                <img src="imagens/ico-tripartite.png" class="img-fluid rounded-start" alt="icone representando tripartite">
+                <img src="imagens/ico-tripartite.png" class="img-fluid rounded-start"
+                  alt="icone representando tripartite">
               </div>
               <div class="col-md-8">
                 <div class="card-body">
@@ -104,8 +112,10 @@
     </div>
 
   </div>
-
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <?php include_once('php/footer.php'); ?>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
 </body>
 
 </html>
