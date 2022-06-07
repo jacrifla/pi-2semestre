@@ -8,7 +8,7 @@ body{
     background-color: #0d0d0d!important;
 }
 
-.paleta-preto-color{
+.paleta-preto-color, #partidos a{
     color: #0d0d0d!important;
 }
 
@@ -64,13 +64,13 @@ footer ul{
 
 .daniel_presidente_border {
     border-style: none dashed none none !important;
-    border-right-color: red;
+    border-right-color: black;
 }
 
 .daniel_presidente_border_r {
     border-style: groove dashed groove groove !important;
     border-color: darkgray;
-    border-right-color: red;
+    border-right-color: black;
     border-top-left-radius: 5%;
     border-bottom-left-radius: 5%;
 }
