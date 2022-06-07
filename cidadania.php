@@ -23,25 +23,22 @@
 
 
     <main>
-        <article class="container-fluid m-1">
+        <article class="container m-auto">
             <h1 class="row justify-content-center m-3 fs-1">Cidadania</h1>
-            <div class="row">
-                <div class="col-12 col-md-4 col-lg-6 mb-3">
+            <div class="clearfix">
+                <div class="col-md-6 float-md-start mx-3 ms-md-3">
                     <img class="w-100" src="imagens/vote-certo.jpg" alt="Imagem de bonecos palito com escrito: Vote Certo">
                 </div>
-                <div class="col-12 col-md-8 col-lg-6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga illo necessitatibus id consequatur ratione, voluptas atque at, tempore maiores earum animi, totam eaque, adipisci doloremque neque dicta ullam aperiam. Harum.
-                    </p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga illo necessitatibus id consequatur ratione, voluptas atque at, tempore maiores earum animi, totam eaque, adipisci doloremque neque dicta ullam aperiam. Harum.
-                    </p>
-                </div>
-                <div class="col-12 col-md-8 col-lg-12">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga illo necessitatibus id consequatur ratione, voluptas atque at, tempore maiores earum animi, totam eaque, adipisci doloremque neque dicta ullam aperiam. Harum.
-                    </p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga illo necessitatibus id consequatur ratione, voluptas atque at, tempore maiores earum animi, totam eaque, adipisci doloremque neque dicta ullam aperiam. Harum.
-                    </p>
-                </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga illo necessitatibus id consequatur ratione, voluptas atque at, tempore maiores earum animi, totam eaque, adipisci doloremque neque dicta ullam aperiam. Harum.
+                </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga illo necessitatibus id consequatur ratione, voluptas atque at, tempore maiores earum animi, totam eaque, adipisci doloremque neque dicta ullam aperiam. Harum.
+                </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga illo necessitatibus id consequatur ratione, voluptas atque at, tempore maiores earum animi, totam eaque, adipisci doloremque neque dicta ullam aperiam. Harum.
+                </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga illo necessitatibus id consequatur ratione, voluptas atque at, tempore maiores earum animi, totam eaque, adipisci doloremque neque dicta ullam aperiam. Harum.
+                </p>
             </div>
+
         </article>
     </main>
 
