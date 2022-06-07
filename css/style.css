@@ -101,3 +101,60 @@ footer ul{
 .daniel_presidente_box {
 background-image: linear-gradient(to bottom right, #8C8C8C, #F2F2F2)
 }
+
+.link {
+  transition: .5s;
+  text-decoration: none;
+}
+
+
+.secondary-color {
+  color: #555;
+}
+
+
+#presidente .btn, #senado .btn, #marilia .btn, #flavia .btn, #carlos .btn, #moro .btn {
+  text-decoration: none;
+  background-color: #25282e;
+  color: #FFF;
+  padding: 7px 18px;
+  border-radius: 0;
+}
+
+#presidente .btn:hover, #senado .btn:hover, #marilia .btn:hover, #flavia .btn:hover, #carlos .btn:hover, #moro .btn:hover {
+  background-color: #333;
+  color: #FFF;
+}
+
+
+.senador {
+  text-align: center;
+  border: 2px solid #555;
+  padding: 10px 0;
+
+}
+
+.card-pres{
+  width: 270px;
+}
+
+#gallery-container h3 {
+  text-align: center;
+}
+
+#gallery-container-senado h2 {
+  text-align: center;
+}
+
+#gallery-container-senado ,
+#gallery-container-senado .col-xs-12 {
+  margin-bottom: 50px;
+}
+
+#gallery-container ,
+#gallery-container .col-xs-12 {
+  margin-bottom: 10px 0px;
+}
+#card{
+  padding: 10px;
+}
