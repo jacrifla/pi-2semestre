@@ -23,9 +23,13 @@ footer a{
 footer li{
     list-style: none;
 }
+
 footer ul{
 
     padding-inline-start: 0;
+}
+.no-line{
+  text-decoration: none;
 }
 
 .referencias-footer{
