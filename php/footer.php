@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <footer id="footer paleta-preto-bg">
+    <footer id="footer" class="paleta-preto-bg">
         <div class="row">
             <h3 class="paleta-branco-color">Mapa do Site</h3>
             <div class="col">
