@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="css/style.css">
     </head>
 
-    <body>
+    <body id="quem-somos">
     <?php include_once('php/header.php'); ?>
         <div class="container-fluid">
             <article>
@@ -25,8 +25,8 @@
             </article>
             <aside class="d-flex justify-content-center align-items-start row">
 
-                <div class="card col-sm-12 mx-md-4 my-2" style="width: 18rem;">
-                    <img src="imagens/imagem.png" class="card-img-top py-2" alt="...">
+                <div class="card col-sm-12 mx-md-4 my-2" >
+                    <img src="imagens/daniel.jpg" class="card-img-top py-2" alt="...">
                     <div class="card-body">
                         <p class="card-text">Daniel</p>
                         <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi iure optio voluptatem vel eligendi repellat veniam magnam quibusdam doloribus atque a placeat</p>
@@ -40,7 +40,7 @@
                     </div>
                 </div>
 
-                <div class="card col-sm-12 mx-md-4 my-2" style="width: 18rem;">
+                <div class="card col-sm-12 mx-md-4 my-2" >
                     <img src="imagens/jaque.jpg" class="card-img-top py-2" alt="integrante do grupo, Jaquelini">
                     <div class="card-body">
                         <p class="card-text">Jaquelini</p>
@@ -55,7 +55,7 @@
                     </div>
                 </div>
 
-                <div class="card col-sm-12 mx-md-4 my-2" style="width: 18rem;">
+                <div class="card col-sm-12 mx-md-4 my-2">
                     <img src="imagens/guilherme.jpg" class="card-img-top py-2" alt="...">
                     <div class="card-body">
                         <p class="card-text">José Guilherme</p>
@@ -69,7 +69,7 @@
                     </div>
                 </div>
 
-                <div class="card col-sm-12 mx-md-4 my-2" style="width: 18rem;">
+                <div class="card col-sm-12 mx-md-4 my-2">
                     <img src="imagens/sthefani.jpg" class="card-img-top py-2" alt="Sthefani">
                     <div class="card-body">
                         <p class="card-text">Sthefani</p>

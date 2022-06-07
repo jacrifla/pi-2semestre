@@ -14,8 +14,11 @@
 
 </head>
 
-<body class="container" id="presidente">
+<body  id="presidente">
     <?php include_once('php/header.php'); ?>
+    <div class="container">
+
+    
     <div class="row p-4">
         <h1 class="text-center"><strong>Pré-Candidatos a Presidência</strong></h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt tempora deserunt doloribus voluptate, saepe
@@ -168,6 +171,7 @@
         </div>
     </div>
 
+</div>
     <p class="referencias-footer text-center m-0">
         <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold"
                 href="referencias.html#Candidaturas" target="_blank">Referências dessa página</a></small>
