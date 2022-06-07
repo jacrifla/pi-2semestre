@@ -28,6 +28,12 @@ footer ul{
     padding-inline-start: 0;
 }
 
+.referencias-footer{
+    width: 100%;
+    height: 30px;
+    background-color: #595959;
+}
+
 .paleta-branco-color, footer a{
     color: #f2f2f2;
 }
@@ -52,6 +58,12 @@ footer ul{
 }
 #partidos .card-body{
     padding-bottom: 0;
+}
+
+/* css página cargos */
+
+#cargos table {
+    background: white!important;
 }
 
 /* css página Linha do Tempo dos Presidentes */
