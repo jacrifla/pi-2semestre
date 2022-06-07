@@ -170,3 +170,8 @@ background-image: linear-gradient(to bottom right, #8C8C8C, #F2F2F2)
 #card{
   padding: 10px;
 }
+
+.card-home{
+  width: 350px;
+  height: 150px;
+}

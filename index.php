@@ -14,13 +14,13 @@
 
 </head>
 
-<body>
+<body id="home">
   <?php include_once('php/header.php'); ?>
-  <div class="container-fluid">
+  <div class="container">
 
-    <article class="d-sm-flex align-items-end justify-content-sm-center my-3">
-      <div class="align-self-center col-md-3 p-4">
-        <h1>Bem Vindo,</h1>
+    <article class="d-flex flex-wrap my-3 justify-content-lg-evenly">
+      <div class="align-self-center col-md-6 p-4">
+        <h1>Bem Vindo</h1>
         <p>Portal Intelecto foi desenvolvido como um porta-voz à todos os brasileiros que desejam conhecer mais sobre a
           democracia presidencialista no Brasil. Além de oferecer o conteúdo teórico e histórico de forma leve, também
           unifica em uma só
@@ -31,16 +31,16 @@
 
     </article>
 
-    <div class="d-flex justify-content-sm-center">
-      <div class="row">
-        <div class="col ">
-          <section class="card mb-3" style="max-width: 540px;">
+    <div class="d-flex flex-wrap justify-content-md-between justify-content-lg-evenly">
+      <!-- <div class="row"> -->
+        <div class="col-md-4 d-flex flex-column align-items-center justify-content-sm-center">
+          <section class="card card-home mb-3">
             <div class="row g-0">
-              <div class="col-md-3">
-                <img src="imagens/ico-candidaturas.png" class="img-fluid rounded-start"
+              <div class="col-3 d-flex justify-content-center align-items-center">
+                <img src="imagens/ico-candidaturas.png" class="img-fluid img-thumbnail"
                   alt="icone representando candidaturas">
               </div>
-              <div class="col-md-8">
+              <div class="col-8">
                 <div class="card-body">
                   <a href="">
                     <h5 class="card-title">Candidaturas</h5>
@@ -51,13 +51,13 @@
               </div>
             </div>
           </section>
-          <section class="card mb-3 " style="max-width: 540px;">
+          <section class="card card-home mb-3 ">
             <div class="row g-0">
-              <div class="col-md-3">
-                <img src="imagens/ico-cidadania.png" class="img-fluid rounded-start"
+              <div class="col-3 d-flex justify-content-center align-items-center">
+                <img src="imagens/ico-cidadania.png" class="img-fluid img-thumbnail rounded-start"
                   alt="icone representando cidadania">
               </div>
-              <div class="col-md-8">
+              <div class="col-8">
                 <div class="card-body">
                   <a href="cidadania.php">
                     <h5 class="card-title">Cidadania</h5>
@@ -70,14 +70,14 @@
           </section>
         </div>
 
-        <div class="col">
-          <section class="card mb-3" style="max-width: 540px;">
+        <div class="col-md-4 d-flex flex-column align-items-center justify-content-sm-center">
+          <section class="card card-home mb-3">
             <div class="row g-0">
-              <div class="col-md-3">
-                <img src="imagens/ico-linha-tempo.png" class="img-fluid rounded-start"
+              <div class="col-3 d-flex justify-content-center align-items-center">
+                <img src="imagens/ico-linha-tempo.png" class="img-fluid img-thumbnail rounded-start"
                   alt="icone representando linha do tempo">
               </div>
-              <div class="col-md-8">
+              <div class="col-8">
                 <div class="card-body">
                   <a href="linha_do_tempo.php">
                     <h5 class="card-title">Linha do Tempo</h5>
@@ -88,13 +88,13 @@
               </div>
             </div>
           </section>
-          <section class="card mb-3" style="max-width: 540px;">
+          <section class="card card-home mb-3">
             <div class="row g-0">
-              <div class="col-md-3">
-                <img src="imagens/ico-tripartite.png" class="img-fluid rounded-start"
+              <div class="col-3 d-flex justify-content-center align-items-center">
+                <img src="imagens/ico-tripartite.png" class="img-fluid img-thumbnail rounded-start"
                   alt="icone representando tripartite">
               </div>
-              <div class="col-md-8">
+              <div class="col-8">
                 <div class="card-body">
                   <h5 class="card-title">Tripartite</h5>
                   <ul>
@@ -108,7 +108,7 @@
           </section>
         </div>
 
-      </div>
+      <!-- </div> -->
     </div>
 
   </div>
