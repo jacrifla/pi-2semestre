@@ -9,11 +9,11 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-    <header class="text-center">
+<body id="header">
+    <header class="text-center  paleta-preto-bg">
             <img class="img-fluid" src="imagens/portal-intelecto.png" alt="logo do site">
         </header>
-        <nav class="navbar navbar-expand-lg navbar-dark paleta-preto-bg">
+        <nav class="navbar navbar-expand-lg paleta-preto-bg">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.php">
                 <img src="imagens/icon-menu48x48.png" alt="logo do site" >
@@ -24,11 +24,11 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                    <a class="nav-link paleta-branco-color active" aria-current="page" href="index.php">Home</a>
                     </li>
 
                     <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="DropdownConceitos" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link paleta-branco-color dropdown-toggle" href="#" id="DropdownConceitos" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Conceitos
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="DropdownConceitos">
@@ -37,7 +37,7 @@
                     </ul>
                     </li>
                     <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="DropdownTripartite" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link paleta-branco-color dropdown-toggle" href="#" id="DropdownTripartite" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Tripartite
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="DropdownTripartite">
@@ -47,7 +47,7 @@
                     </ul>
                     </li>
                     <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="DropdownCandidaturas" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link paleta-branco-color dropdown-toggle" href="#" id="DropdownCandidaturas" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Candidaturas
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="DropdownCandidaturas">
@@ -55,19 +55,19 @@
                         <li><a class="dropdown-item" href="senado.php">Senadores</a></li>
                     </ul>
                     </li>
-                    <li class="nav-item"><a href="cargos.php" class="nav-link">Cargos</a></li>
+                    <li class="nav-item"><a href="cargos.php" class="nav-link paleta-branco-color">Cargos</a></li>
                     <li class="nav-item">
-                    <a href="partidos.php" class="nav-link">Partidos</a>
+                    <a href="partidos.php" class="nav-link paleta-branco-color">Partidos</a>
                     </li>
                     <li class="nav-item">
-                    <a href="linha_do_tempo.php" class="nav-link">Linha do Tempo</a>
+                    <a href="linha_do_tempo.php" class="nav-link paleta-branco-color">Linha do Tempo</a>
                     </li><li class="nav-item">
-                    <a href="galeria_juizes.php" class="nav-link">Galeria</a>
+                    <a href="galeria_juizes.php" class="nav-link paleta-branco-color">Galeria</a>
                     </li><li class="nav-item">
-                    <a href="contato.php" class="nav-link">Contato</a>
+                    <a href="contato.php" class="nav-link paleta-branco-color">Contato</a>
                     </li>
                     <li class="nav-item">
-                    <a href="quem-somos.php" class="nav-link">Quem Somos</a>
+                    <a href="quem-somos.php" class="nav-link paleta-branco-color">Quem Somos</a>
                     </li>
                 </ul>
 
