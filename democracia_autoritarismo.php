@@ -46,6 +46,9 @@
         </article>
     </main>
 
+    <p class="referencias-footer text-center m-0">
+      <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html#Conceitos" target="_blank">Referências dessa página</a></small>
+    </p>
 
     <?php include_once('php/footer.php'); ?>
 

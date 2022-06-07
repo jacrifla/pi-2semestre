@@ -20,7 +20,7 @@
 <body>
 
 
-  <!-- Colocar o link PHP do Header e Nav aqui! -->
+  <?php include_once('php/header.php'); ?>
 
 
   <main>
@@ -113,7 +113,11 @@
   </main>
 
 
-  <!-- Colocar o link PHP do Footer aqui! -->
+  <p class="referencias-footer text-center m-0">
+    <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html#LinhaTempoGaleria" target="_blank">Referências dessa página</a></small>
+  </p>
+
+  <?php include_once('php/footer.php'); ?>
 
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
