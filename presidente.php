@@ -10,9 +10,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="stylesheet" href="css/style.css">
     <title>Pré Candidatos Presidência</title>
+    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+
 </head>
 
 <body class="container" id="presidente">
+    <?php include_once('php/header.php'); ?>
     <div class="row p-4">
         <h1 class="text-center"><strong>Pré-Candidatos a Presidência</strong></h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt tempora deserunt doloribus voluptate, saepe
@@ -24,7 +27,7 @@
     </div>
     <div class="row d-flex justify-content-center">
         <div class="col-sm-12 col-md-6 col-lg-3 card mx-1" style="width: 270px;">
-            <img src="https://via.placeholder.com/400x500" class="card-img-top" alt="bolsonaro">
+            <img src="imagens/presidentes/38_jair_messias_bolsonaro.jpg" class="card-img-top" alt="bolsonaro">
             <div class="card-body">
                 <h5 class="card-title"><strong>Jair Messias Bolsonaro </strong></h5>
                 <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore itaque eveniet
@@ -59,7 +62,7 @@
             </div>
         </div>
         <div class="col-sm-12 col-md-6 col-lg-3 card mx-1" style="width: 270px;">
-            <img src="https://via.placeholder.com/400x500" class="card-img-top" alt="lula">
+            <img src="imagens/presidentes/35_luiz_inacio_lula_da_silva.jpg" class="card-img-top" alt="lula">
             <div class="card-body">
                 <h5 class="card-title"><strong>Lula</strong></h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia maxime natus
@@ -94,7 +97,7 @@
             </div>
         </div>
         <div class="col-sm-12 col-md-6 col-lg-3 card mx-1" style="width: 270px;">
-            <img src="https://via.placeholder.com/400x500" class="card-img-top" alt="ciro">
+            <img src="imagens/ciro-gomes.jpg" class="card-img-top" alt="ciro">
             <div class="card-body">
                 <h5 class="card-title"><strong>Ciro Gomes</strong></h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis eligendi voluptas
@@ -129,7 +132,7 @@
             </div>
         </div>
         <div class="col-sm-12 col-md-6 col-lg-3 card mx-1" style="width: 270px;">
-            <img src="https://via.placeholder.com/400x500" class="card-img-top" alt="doria">
+            <img src="imagens/joao-doria.jpg" class="card-img-top" alt="doria">
             <div class="card-body">
                 <h5 class="card-title"><strong>João Doria</strong></h5>
                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque commodi beatae
@@ -164,6 +167,13 @@
             </div>
         </div>
     </div>
+
+    <p class="referencias-footer text-center m-0">
+        <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold"
+                href="referencias.html#Candidaturas" target="_blank">Referências dessa página</a></small>
+    </p>
+    <?php include_once('php/footer.php'); ?>
+
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
