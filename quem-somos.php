@@ -46,7 +46,7 @@
                         <p class="card-text">Jaquelini</p>
                         <p class="card-text">A Integrante que reprime a criatividade dos outros integrantes. Gosta de maratonar animes e séries. Seus filmes preferidos são Matrix, Senhor dos Anéis e Harry Potter. Seus passatempos são cantar e jogar e de vez enquando estudar.</p>
                         <p class="card-text">RA: 2650832123022</p>
-                        <p class="card-text">Função do Grupo: Destruidora de Criatividade</p>
+                        <p class="card-text">Função do Grupo: Destruidora de Criatividade, Menos é Mais</p>
                         <ul>
                             <li><a href="executivo.php">Executivo</a></li>
                             <li><a href="legislativo.php">Legislativo</a></li>
