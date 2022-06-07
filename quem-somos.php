@@ -56,16 +56,15 @@
                 </div>
 
                 <div class="card col-sm-12 mx-md-4 my-2" style="width: 18rem;">
-                    <img src="imagens/imagem.png" class="card-img-top py-2" alt="...">
+                    <img src="imagens/guilherme.jpg" class="card-img-top py-2" alt="...">
                     <div class="card-body">
                         <p class="card-text">José Guilherme</p>
-                        <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi iure optio voluptatem vel eligendi repellat veniam magnam quibusdam doloribus atque a placeat</p>
+                        <p class="card-text">O integrante mais calmo do grupo. Gosto muito de estar com os meus amigos, conversando, fazendo um churrasco, etc. Gosto de cozinhar, ir ao cinema e também em alguns momentos ficar sozinho enquanto escuto uma musica e fumo meu charuto</p>
                         <p class="card-text">RA: 2650832123019</p>
-                        <p class="card-text">Função do Grupo: </p>
+                        <p class="card-text">Função do Grupo: Pesquisa dos candidatos </p>
                         <ul>
-                            <li><a href="#">-</a></li>
-                            <li><a href="#">-</a></li>
-                            <li><a href="#">-</a></li>
+                            <li><a href="presidente.php">Pré-Candidatos Presidência</a></li>
+                            <li><a href="senado.php">Pré-Candidatos Senado</a></li>
                         </ul>
                     </div>
                 </div>
