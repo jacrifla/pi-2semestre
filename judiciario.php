@@ -20,7 +20,7 @@
 
             <article class="d-flex flex-column m-auto col-lg-6 p-xl-3">
                 <h1 class="text-center">Judiciário</h1>
-                <img src="imagens/judiciario.jpg"  class="text-center img-fluid  w-100" alt="imagem expressando o judiciario" >
+                <img src="imagens/judiciario.jpg"  class="img-fluid w-50 m-auto py-3" alt="imagem expressando o judiciario" >
                 <p>O Poder Judiciário é responsável por interpretar as leis e julgar. São compostos por juízes, que tomam decisões quando há conflitos entre as pessoas da sociedade, baseados no ordenamento jurídico do país.
                 Diferente do Poder Executivo e Legislativo, os membros do Judiciário não são eleitos pela população, sendo assim, não são representantes do povo. O Poder Judiciário brasileiro é constituído pelo Supremo Tribunal Federal, Superior Tribunal de Justiça, Tribunais Regionais Federais, Tribunais do Trabalho, Tribunais Eleitorais, Tribunais Militares, Tribunais dos Estados. Sendo dividido como justiça comum, justiça do trabalho, justiça eleitoral e justiça militar.
                 A função do poder Judiciário é proteger a Constituição, ou seja, não permitindo que o Executivo contradiga os princípios constitucionais. E como o Judiciário interpreta as leis e julga, ele avalia os desacordos entre os cidadãos ou entre os cidadãos e o Estado. Também desempenha a função de processar e julgar o Presidente da Republica e Ministros de Estado.</p>

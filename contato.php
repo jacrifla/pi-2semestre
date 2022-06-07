@@ -14,6 +14,8 @@
     </head>
 
     <body>
+    <?php include_once('php/header.php'); ?>
+
         <div class="container d-flex align-items-center flex-column">
             
             <main class="row ">
@@ -36,7 +38,7 @@
 
                 </div>
             </main>
-            <aside class="col-11 col-lg-7">
+            <form class="col-11 col-lg-7 my-2">
                 <div class="mb-3">
                     <label for="exampleFormControlInput1" class="form-label">Escreva pra gente:</label>
                     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email">
@@ -46,11 +48,13 @@
                     <textarea class="form-control" placeholder="Escreva sua dúvida" id="exampleFormControlTextarea1" rows="3"></textarea>
                 </div>
                 <button type="button" class="d-grid gap-2 col-4 mx-auto btn-dark rounded me-md-2">Enviar</button>
-            </aside>
+            </form>
 
             </div>
 
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    <?php include_once('php/footer.php'); ?>
+        
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
         </script>
     </body>

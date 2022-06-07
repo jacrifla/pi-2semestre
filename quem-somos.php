@@ -20,7 +20,7 @@
                 <div class="d-flex flex-row justify-content-evenly align-items-center align-self-center">
                     <img src="imagens/ufc.png" class="py-3" alt="Logo do Grupo" >
                     <p>Somos os Ursinhos Felizes em Chamas, mas pode nos chamar por UFC, </p>
-                    <a href="recrutamento.html"  class="btn btn-success">Aliste-se</a>
+                    <a href="recrutamento.php"  class="btn btn-success">Aliste-se</a>
                 </div>
             </article>
             <aside class="d-flex justify-content-center align-items-start row">
@@ -48,9 +48,9 @@
                         <p class="card-text">RA: 2650832123022</p>
                         <p class="card-text">Função do Grupo: Destruidora de Criatividade</p>
                         <ul>
-                            <li><a href="executivo.html">Executivo</a></li>
-                            <li><a href="legislativo.html">Legislativo</a></li>
-                            <li><a href="judiciario.html">Judiciário</a></li>
+                            <li><a href="executivo.php">Executivo</a></li>
+                            <li><a href="legislativo.php">Legislativo</a></li>
+                            <li><a href="judiciario.php">Judiciário</a></li>
                         </ul>
                     </div>
                 </div>
