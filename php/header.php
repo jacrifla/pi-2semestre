@@ -26,14 +26,14 @@
                     <li class="nav-item">
                     <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                     </li>
-                    
+
                     <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="DropdownConceitos" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Conceitos
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="DropdownConceitos">
-                        <li><a class="dropdown-item" href="#">Cidadania</a></li>
-                        <li><a class="dropdown-item" href="#">Democracia vs Autoritarismo</a></li>
+                        <li><a class="dropdown-item" href="cidadania.php">Cidadania</a></li>
+                        <li><a class="dropdown-item" href="democracia_autoritarismo.php">Democracia vs Autoritarismo</a></li>
                     </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -45,17 +45,17 @@
                         <li><a class="dropdown-item" href="legislativo.php">Legislativo</a></li>
                         <li><a class="dropdown-item" href="judiciario.php">Judiciário</a></li>
                     </ul>
-                    </li>                 
+                    </li>
                     <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="DropdownCandidaturas" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Candidaturas
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="DropdownCandidaturas">
-                        <li><a class="dropdown-item" href="#">Presidente</a></li>
-                        <li><a class="dropdown-item" href="#">Senadores</a></li>
+                        <li><a class="dropdown-item" href="presidente.php">Presidente</a></li>
+                        <li><a class="dropdown-item" href="senado.php">Senadores</a></li>
                     </ul>
                     </li>
-                    <li class="nav-item"><a href="partidos.php" class="nav-link">Cargos</a></li>
+                    <li class="nav-item"><a href="cargos.php" class="nav-link">Cargos</a></li>
                     <li class="nav-item">
                     <a href="partidos.php" class="nav-link">Partidos</a>
                     </li>
@@ -70,13 +70,13 @@
                     <a href="quem-somos.php" class="nav-link">Quem Somos</a>
                     </li>
                 </ul>
-                
+
                 </div>
             </div>
         </nav>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
-        </script>    
+        </script>
 </body>
 </html>

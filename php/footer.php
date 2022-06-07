@@ -18,8 +18,8 @@
             <div class="col">
                 <h4>Conceitos</h4>
                 <ul>
-                    <li><a href="#">Cidadania</a></li>
-                    <li><a href="#">Democracia vs Autoritarismo</a></li>
+                    <li><a href="cidadania.php">Cidadania</a></li>
+                    <li><a href="democracia_autoritarismo.php">Democracia vs Autoritarismo</a></li>
                 </ul>
             </div>
 
@@ -35,8 +35,8 @@
             <div class="col">
                 <h4 class="paleta-branco-color">Candidaturas</h4>
                 <ul>
-                    <li><a href="#">Presidente</a></li>
-                    <li><a href="#">Senadores</a></li>
+                    <li><a href="presidente.php">Presidente</a></li>
+                    <li><a href="senado.php">Senadores</a></li>
                 </ul>
             </div>
 
