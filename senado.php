@@ -16,7 +16,8 @@
 
 <body id="senado">
   <?php include_once('php/header.php'); ?>
-  <article class="container mt-5 mb-5">
+  <main class="my-5">
+  <article class="container">
     <div class="row align-items-center">
       <div class="col-12">
         <img src="imagens/camara.jpg" class="img-fluid rounded mx-auto d-block" alt="camara" id="camara-senado">
@@ -70,7 +71,7 @@
       </section>
     </div>
   </div>
-
+  </main>
   <p class="referencias-footer text-center m-0">
     <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold"
         href="referencias.html#Candidaturas" target="_blank">Referências dessa página</a></small>

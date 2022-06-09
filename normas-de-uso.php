@@ -15,7 +15,7 @@
 
     <body>
     <?php include_once('php/header.php'); ?>
-        <div class="container">
+        <div class="container  my-5">
 
         <article class="mx-5">
             <h1 class="text-center">Termos e condições de uso</h1>

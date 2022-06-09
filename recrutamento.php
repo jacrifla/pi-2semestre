@@ -14,7 +14,7 @@
 <body>
     <?php include_once('php/header.php'); ?>
 
-    <div class="container-fluid">
+    <div class="container-fluid my-5">
         <main class="d-flex justify-content-center m-2 row">
             <article class="col-md-4 me-6">
                 <h1>Recrutamento</h1>

@@ -23,8 +23,8 @@
   <?php include_once('php/header.php'); ?>
 
 
-  <main>
-    <article class="container m-auto">
+  <main class=" my-5">
+    <article class="container mx-auto">
       <h1 class="row justify-content-center m-3 fs-1">Cidadania</h1>
       <div class="clearfix">
         <div class="col-md-6 float-md-start mx-3 ms-md-3">

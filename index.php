@@ -16,7 +16,7 @@
 
 <body id="home">
   <?php include_once('php/header.php'); ?>
-  <div class="container">
+  <div class="container my-5">
 
     <article class="d-flex flex-wrap my-3 justify-content-lg-evenly">
       <div class="align-self-center col-md-6 p-4">

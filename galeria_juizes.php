@@ -24,7 +24,7 @@
   <?php include_once('php/header.php'); ?>
 
 
-  <main>
+  <main class=" my-5">
     <article class="container-fluid justify-content-center m-1">
       <h1 class="row justify-content-center m-3 fs-1">Galeria dos Juízes do STF</h1>
 

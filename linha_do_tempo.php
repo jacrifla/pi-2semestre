@@ -23,7 +23,7 @@
   <?php include_once('php/header.php'); ?>
 
 
-  <article class="row container g-0 mx-auto">
+  <article class="row container g-0 mx-auto my-5">
     <h1 class="row m-5 fs-1 mx-auto justify-content-center p-0">Linha do Tempo dos Presidentes</h1>
 
 

@@ -15,7 +15,7 @@
 
 <body id="cargos">
     <?php include_once('php/header.php'); ?>
-    <article class="container">
+    <article class="container  my-5">
         <h1 class="fs-4">Cargos na República Brasileira</h1>
         <div>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem odit totam exercitationem ipsum

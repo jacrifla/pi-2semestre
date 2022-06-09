@@ -16,7 +16,7 @@
 
 <body  id="presidente">
     <?php include_once('php/header.php'); ?>
-    <div class="container">
+    <div class="container  my-5">
 
     
     <div class="row p-4">

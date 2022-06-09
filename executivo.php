@@ -16,7 +16,7 @@
     <body id="executivo">
         <?php include_once('php/header.php'); ?>
 
-        <div class="container-fluid">
+        <div class="container-fluid  my-5">
 
             <article class="d-flex row">
                 <h1 class="text-center p-2">Executivo</h1>

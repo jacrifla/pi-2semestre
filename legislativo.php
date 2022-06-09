@@ -16,11 +16,11 @@
     <body id="legislativo">
     <?php include_once('php/header.php'); ?>
 
-        <div class="container-fluid">
+        <div class="container-fluid  my-5">
 
             <article class="d-flex row">
                 <h1 class="text-center">Legislativo</h1>
-                <div class="d-flex flex-wrap justify-content-center align-items-center">
+                <div class="d-flex flex-wrap justify-content-center align-items-start">
                     <img class="img-fluid order-md-2 p-3" src="imagens/legislativo.jpg" alt="">
                     <p class="mx-5 col-xl-3">No Brasil o Poder Legislativo é constituído por um sistema bicameral, composto pelo Congresso Nacional. Divide-se entre as Câmera dos Deputados, que representam o povo, e O Senado Federal para representar os Estados enquanto Unidades Federativas. Nas esferas Municipais e Estaduais, são os Vereadores e Deputados Estaduais que representam respectivamente. Cada estado é representado por 3 Senadores que são eleitos por votação, para ficar 8 anos de mandato. Já os Deputados ou Vereadores tem mandatos de 4 anos. O instrumento legislativo recebe a denominação de Parlamento, câmara, Assembleia Nacional ou Congresso Nacional.
                     O poder Legislativo tem como função criar, modificar e anular as leis que regem o país, ou seja, ele legisla. Além de vigiar o executivo ao cumprimento das leis.
@@ -30,6 +30,9 @@
             </article>
 
         </div>
+        <p class="referencias-footer text-center m-0">
+        <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html#Legislativo" target="_blank">Referências dessa página</a></small> 
+        </p>
         <?php include_once('php/footer.php'); ?>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"

@@ -16,7 +16,7 @@
     <body>
     <?php include_once('php/header.php'); ?>
 
-        <div class="container d-flex align-items-center flex-column">
+        <div class="  my-5 container d-flex align-items-center flex-column">
             
             <main class="row ">
 

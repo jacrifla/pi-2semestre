@@ -24,7 +24,7 @@
 
 
     <main>
-        <article class="container-fluid">
+        <article class=" my-5 container-fluid">
             <div class="row">
                 <div class="col-12 col-md">
                     <h2 class="text-center fs-1 m-3">Democracia</h2>

@@ -14,7 +14,7 @@
 
 <body id="partidos">
     <?php include_once('php/header.php'); ?>
-    <main class="container">
+    <main class="container my-5">
         <h1 class="fs-4 my-4">Partidos</h1>
         <section>
             <h2 class="fs-4">A</h2>

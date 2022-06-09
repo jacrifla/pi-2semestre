@@ -14,7 +14,7 @@
 
     <body id="quem-somos">
     <?php include_once('php/header.php'); ?>
-        <div class="container-fluid">
+        <div class="container-fluid my-5">
             <article>
                 <h1 class="text-center">Quem Somos</h1>
                 <div class="d-flex flex-row justify-content-evenly align-items-center align-self-center">

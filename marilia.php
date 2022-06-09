@@ -16,7 +16,7 @@
 
 <body id="marilia">
     <?php include_once('php/header.php'); ?>
-    <article class="container mt-5 mb-5">
+    <article class="container  my-5">
         <div class="row align-items-center">
             <div class="col-12">
                 <img src="imagens/marilia-arraes.jpg" class="img-fluid rounded mx-auto d-block" alt="marilia" id="foto">
