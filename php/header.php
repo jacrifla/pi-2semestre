@@ -11,7 +11,7 @@
                 <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0 w-100 justify-content-evenly">
                     <li class="nav-item">
                     <a class="nav-link paleta-branco-color active" aria-current="page" href="index.php">Home</a>
                     </li>
