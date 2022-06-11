@@ -70,6 +70,11 @@ footer ul{
     background: white!important;
 }
 
+#nav-tab .nav-link.active{
+  color: white!important;
+  background-color: #0d0d0d;
+}
+
 /* css página Linha do Tempo dos Presidentes */
 
 .daniel_presidente_title {
