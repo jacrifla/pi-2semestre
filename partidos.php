@@ -15,9 +15,9 @@
 <body id="partidos">
     <?php include_once('php/header.php'); ?>
     <main class="container my-5">
-        <h1 class="fs-4 my-4">Partidos</h1>
+        <h1 class="text-center my-4">Partidos</h1>
         <section>
-            <h2 class="fs-4">A</h2>
+            <h2 >A</h2>
             <hr>
             <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col card">
@@ -28,7 +28,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">AGIR</h5>
+                                <h5>AGIR</h5>
                                 <a href="https://www.agir36.com.br/" target="_blank"
                                     class=" fs-6"><small>AGIR</small></a>
                             </div>
@@ -43,7 +43,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">AVANTE</h5>
+                                <h5>AVANTE</h5>
                                 <a href="https://avante70.org.br/" target="_blank"
                                     class=" fs-6"><small>AVANTE</small></a>
                             </div>
@@ -53,7 +53,7 @@
             </div>
         </section>
         <section>
-            <h2 class="fs-4">C</h2>
+            <h2 >C</h2>
             <hr>
             <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col card">
@@ -64,7 +64,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">CIDADANIA</h5>
+                                <h5>CIDADANIA</h5>
                                 <a href="https://cidadania23.org.br/" target="_blank"
                                     class=" fs-6"><small>CIDADANIA</small></a>
                             </div>
@@ -75,7 +75,7 @@
             </div>
         </section>
         <section>
-            <h2 class="fs-4">D</h2>
+            <h2 >D</h2>
             <hr>
             <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col card">
@@ -86,7 +86,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">DC</h5>
+                                <h5>DC</h5>
                                 <a href="https://www.democraciacrista.org.br/" target="_blank"
                                     class=" fs-6"><small>DEMOCRACIA CRISTÃ</small></a>
                             </div>
@@ -97,7 +97,7 @@
             </div>
         </section>
         <section>
-            <h2 class="fs-4">M</h2>
+            <h2 >M</h2>
             <hr>
             <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col card">
@@ -108,7 +108,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">MDB</h5>
+                                <h5>MDB</h5>
                                 <a href="https://www.mdb.org.br/" target="_blank" class=" fs-6"><small>MOVIMENTO
                                         DEMOCRÁTICO BRASILEIRO</small></a>
                             </div>
@@ -119,7 +119,7 @@
             </div>
         </section>
         <section>
-            <h2 class="fs-4">N</h2>
+            <h2 >N</h2>
             <hr>
             <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col card">
@@ -130,7 +130,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">NOVO</h5>
+                                <h5>NOVO</h5>
                                 <a href="https://novo.org.br/" target="_blank" class=" fs-6"><small class="">PARTIDO
                                         NOVO</small></a>
                             </div>
@@ -141,7 +141,7 @@
             </div>
         </section>
         <section>
-            <h2 class="fs-4">P</h2>
+            <h2 >P</h2>
             <hr>
             <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col card">
@@ -152,7 +152,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PATRIOTA</h5>
+                                <h5>PATRIOTA</h5>
                                 <a href="https://patriota51.org.br/" target="_blank"
                                     class=" fs-6"><small>PATRIOTA</small></a>
                             </div>
@@ -167,7 +167,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PCB</h5>
+                                <h5>PCB</h5>
                                 <a href="https://pcb.org.br/" target="_blank" class=" fs-6"><small>PARTIDO COMUNISTA
                                         BRASILEIRO</small></a>
                             </div>
@@ -182,7 +182,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PCdoB</h5>
+                                <h5>PCdoB</h5>
                                 <a href="https://pcdob.org.br/" target="_blank" class=" fs-6"><small>PARTIDO COMUNISTA
                                         DO BRASIL</small></a>
                             </div>
@@ -197,7 +197,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PCO</h5>
+                                <h5>PCO</h5>
                                 <a href="https://pco.org.br/" target="_blank" class=" fs-6"><small>PARTIDO DA CAUSA
                                         OPERÁRIA</small></a>
                             </div>
@@ -212,7 +212,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PDT</h5>
+                                <h5>PDT</h5>
                                 <a href="https://www.pdt.org.br/" target="_blank" class=" fs-6"><small>PARTIDO
                                         DEMOCRÁTICO TRABALHISTA</small></a>
                             </div>
@@ -227,7 +227,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PL</h5>
+                                <h5>PL</h5>
                                 <a href="http://pl22.com.br/" target="_blank" class=" fs-6"><small>PARTIDO
                                         LIBERAL</small></a>
                             </div>
@@ -242,7 +242,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PMB</h5>
+                                <h5>PMB</h5>
                                 <a href="https://www.pmb.org.br/" target="_blank" class=" fs-6"><small>PARTIDO DA MULHER
                                         BRASILEIRA</small></a>
                             </div>
@@ -258,7 +258,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PMN</h5>
+                                <h5>PMN</h5>
                                 <a href="https://www.pmn.org.br/" target="_blank" class=" fs-6"><small>PARTIDO DA
                                         MOBILIZAÇÃO NACIONAL</small></a>
                             </div>
@@ -273,7 +273,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PODE</h5>
+                                <h5>PODE</h5>
                                 <a href="https://www.podemos.org.br/" target="_blank"
                                     class=" fs-6"><small>PODEMOS</small></a>
                             </div>
@@ -288,7 +288,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PP</h5>
+                                <h5>PP</h5>
                                 <a href="https://progressistas.org.br/" target="_blank"
                                     class=" fs-6"><small>PROGRESSISTAS</small></a>
                             </div>
@@ -303,7 +303,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PROS</h5>
+                                <h5>PROS</h5>
                                 <a href="https://www.pros.org.br/" target="_blank" class=" fs-6"><small>PARTIDO
                                         REPUBLICANO DA ORDEM SOCIAL</small></a>
                             </div>
@@ -318,7 +318,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PRTB</h5>
+                                <h5>PRTB</h5>
                                 <a href="https://prtb.org.br/" target="_blank" class=" fs-6"><small>PARTIDO RENOVADOR
                                         TRABALHISTA BRASILEIRO</small></a>
                             </div>
@@ -333,7 +333,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PSB</h5>
+                                <h5>PSB</h5>
                                 <a href="https://www.psb40.org.br/" target="_blank" class=" fs-6"><small>PARTIDO
                                         SOCIALISTA BRASILEIRO</small></a>
                             </div>
@@ -348,7 +348,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PSC</h5>
+                                <h5>PSC</h5>
                                 <a href="https://psc.org.br/" target="_blank" class=" fs-6"><small>PARTIDO SOCIAL
                                         CRISTÃO</small></a>
                             </div>
@@ -363,7 +363,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PSD</h5>
+                                <h5>PSD</h5>
                                 <a href="https://psd.org.br/" target="_blank" class=" fs-6"><small>PARTIDO SOCIAL
                                         DEMOCRÁTICO</small></a>
                             </div>
@@ -378,7 +378,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PSDB</h5>
+                                <h5>PSDB</h5>
                                 <a href="https://www.psdb.org.br/" target="_blank" class=" fs-6"><small>PARTIDO DA
                                         SOCIAL DEMOCRACIA BRASILEIRA</small></a>
                             </div>
@@ -393,7 +393,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PSOL</h5>
+                                <h5>PSOL</h5>
                                 <a href="https://psol50.org.br/" target="_blank" class=" fs-6"><small>PARTIDO SOCIALISMO
                                         E LIBERDADE</small></a>
                             </div>
@@ -408,7 +408,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PSTU</h5>
+                                <h5>PSTU</h5>
                                 <a href="https://www.pstu.org.br/" target="_blank" class=" fs-6"><small>PARTIDO
                                         SOCIALISTA DOS TRABALHADORES UNIFICADO</small></a>
                             </div>
@@ -423,7 +423,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PT</h5>
+                                <h5>PT</h5>
                                 <a href="https://www.pt.org.br/" target="_blank" class=" fs-6"><small>PARTIDO DOS
                                         TRABALHADORES</small></a>
                             </div>
@@ -438,7 +438,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PTB</h5>
+                                <h5>PTB</h5>
                                 <a href="https://ptb.org.br/" target="_blank" class=" fs-6"><small>PARTIDO TRABALHISTA
                                         BRASILEIRO</small></a>
                             </div>
@@ -453,7 +453,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">PV</h5>
+                                <h5>PV</h5>
                                 <a href="https://pv.org.br/" target="_blank" class=" fs-6"><small>PARTIDO
                                         VERDE</small></a>
                             </div>
@@ -463,7 +463,7 @@
             </div>
         </section>
         <section>
-            <h2 class="fs-4">R</h2>
+            <h2 >R</h2>
             <hr>
             <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col card">
@@ -474,7 +474,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">REDE</h5>
+                                <h5>REDE</h5>
                                 <a href="https://redesustentabilidade.org.br/" target="_blank" class=" fs-6"><small>REDE
                                         SUSTENTABILIDADE</small></a>
                             </div>
@@ -489,7 +489,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">REPUBLICANOS</h5>
+                                <h5>REPUBLICANOS</h5>
                                 <a href="https://republicanos10.org.br/" target="_blank"
                                     class=" fs-6"><small>REPUBLICANOS</small></a>
                             </div>
@@ -499,7 +499,7 @@
             </div>
         </section>
         <section>
-            <h2 class="fs-4">S</h2>
+            <h2 >S</h2>
             <hr>
             <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col card">
@@ -510,7 +510,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">SOLIDARIEDADE</h5>
+                                <h5>SOLIDARIEDADE</h5>
                                 <a href="https://www.solidariedade.org.br/" target="_blank"
                                     class=" fs-6"><small>SOLIDARIEDADE</small></a>
                             </div>
@@ -521,7 +521,7 @@
             </div>
         </section>
         <section>
-            <h2 class="fs-4">U</h2>
+            <h2 >U</h2>
             <hr>
             <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col card">
@@ -532,7 +532,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">UNIÃO</h5>
+                                <h5>UNIÃO</h5>
                                 <a href="https://uniaobrasil.org.br/" target="_blank" class=" fs-6"><small>UNIÃO
                                         BRASIL</small></a>
                             </div>
@@ -547,7 +547,7 @@
                         </div>
                         <div class="col-8">
                             <div class="card-body">
-                                <h5 class=" fs-6">UP</h5>
+                                <h5>UP</h5>
                                 <a href="https://unidadepopular.org.br/" target="_blank" class=" fs-6"><small>UNIDADE
                                         POPULAR</small></a>
                             </div>

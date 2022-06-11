@@ -19,7 +19,7 @@
         <div class="container-fluid  my-5">
 
             <article class="d-flex row">
-                <h1 class="text-center p-2">Executivo</h1>
+                <h1 class="text-center mb-2">Executivo</h1>
                 <div class="d-flex flex-wrap justify-content-center align-items-center">
                     <p class="mx-5 col-xl-5">O objetivo do poder executivo é governar o povo e administrar os interesses público, no âmbito nacional, estadual ou municipal cumpri ordenações e a constituição do país. Dependendo do sistema, o executivo possui várias faces. O líder do poder executivo é o Presidente, que é escolhido pelo povo, e cumpri mandados regulares, sua função é ser chefe de estado e chefe de governo.
                     No Brasil que é um país presidencialista o poder executivo é representado pelo presidente, é subdividido em três esferas: Poder Executivo Federal - Presidente, Poder Executivo Estadual - Governador de cada estado e o Poder Executivo Municipal – Prefeito de cada cidade.
@@ -31,10 +31,10 @@
 
                 </div>
             </article>
-            <p class="referencias-footer text-center m-0">
-            <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html#Tripartite" target="_blank">Referências dessa página</a></small> 
-            </p>
         </div>
+        <p class="referencias-footer text-center m-0">
+        <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html#Tripartite" target="_blank">Referências dessa página</a></small> 
+        </p>
 
         <?php include_once('php/footer.php'); ?>
 

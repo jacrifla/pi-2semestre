@@ -20,7 +20,7 @@
 
     
     <div class="row p-4">
-        <h1 class="text-center"><strong>Pré-Candidatos a Presidência</strong></h1>
+        <h1 class="text-center mb-4">Pré-Candidatos a Presidência</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt tempora deserunt doloribus voluptate, saepe
             aut sit facilis neque repellendus nihil eaque obcaecati impedit necessitatibus modi ipsam quo pariatur
             molestiae expedita.</p>
