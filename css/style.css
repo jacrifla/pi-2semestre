@@ -77,18 +77,25 @@ footer ul{
 
 /* css página Linha do Tempo dos Presidentes */
 
-.daniel_presidente_title {
+.seta_para_cima {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: #f2f2f2 !important;
+}
+
+#linha_tempo .presidente_title {
     border-style: groove groove groove groove !important;
     border-color: darkgray;
     border-radius: 5%;
 }
 
-.daniel_presidente_border {
+#linha_tempo .presidente_border {
     border-style: none dashed none none !important;
     border-right-color: black;
 }
 
-.daniel_presidente_border_r {
+#linha_tempo .presidente_border_r {
     border-style: groove dashed groove groove !important;
     border-color: darkgray;
     border-right-color: black;
@@ -97,14 +104,14 @@ footer ul{
 }
 
 @media (max-width: 768px) {
-  .daniel_presidente_border_r {
+  #linha_tempo .presidente_border_r {
       border-style: groove groove groove groove !important;
       border-color: darkgray;
       border-radius: 5%;
   }
 }
 
-.daniel_presidente_border_l {
+#linha_tempo .presidente_border_l {
     border-style: groove groove groove none !important;
     border-color: darkgray;
     border-top-right-radius: 5%;
@@ -112,14 +119,14 @@ footer ul{
 }
 
 @media (max-width: 768px) {
-  .daniel_presidente_border_l {
+  #linha_tempo .presidente_border_l {
       border-style: groove groove groove groove !important;
       border-color: darkgray;
       border-radius: 5%;
   }
 }
 
-.daniel_presidente_box {
+#linha_tempo .presidente_box {
 background-image: linear-gradient(to bottom right, #8C8C8C, #F2F2F2)
 }
 
