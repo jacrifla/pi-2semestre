@@ -167,15 +167,6 @@ background-image: linear-gradient(to bottom right, #8C8C8C, #F2F2F2)
   text-align: center;
 }
 
-#gallery-container-senado ,
-#gallery-container-senado .col-xs-12 {
-  margin-bottom: 50px;
-}
-
-#gallery-container ,
-#gallery-container .col-xs-12 {
-  margin-bottom: 10px 0px;
-}
 #card{
   padding: 10px;
 }

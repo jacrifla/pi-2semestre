@@ -22,9 +22,9 @@
 
   <?php include_once('php/header.php'); ?>
 
-<!-- Seta que leva para o topo do site -->
-  <a type="button" class="seta_para_cima" href="#linha_tempo">
-          <img class="w-75" src="imagens/seta.png" alt="Seta que leva para o topo da página">
+  <!-- Seta que leva para o topo do site -->
+  <a class="seta_para_cima" href="#linha_tempo">
+    <img class="w-75" src="imagens/seta.png" alt="Seta que leva para o topo da página">
   </a>
 
 
