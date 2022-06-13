@@ -26,16 +26,17 @@
             <aside class="d-flex justify-content-center align-items-start row">
 
                 <div class="card col-sm-12 mx-md-4 my-2" >
-                    <img src="imagens/daniel.jpg" class="card-img-top py-2" alt="...">
+                    <img src="imagens/daniel.jpg" class="card-img-top py-2" alt="Daniel">
                     <div class="card-body">
                         <p class="card-text">Daniel</p>
-                        <p class="card-text">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Excepturi iure optio voluptatem vel eligendi repellat veniam magnam quibusdam doloribus atque a placeat</p>
+                        <p class="card-text">O Integrante que inventa problema para o resto do time. Gosto de <i>streams</i>, jogos e, quando sobra tempo, de escrever histórias. Adoro enigmas e desafios que me façam pensar. Demoro muito para aderir a uma causa, mas depois também não abandono por nada desse mundo.</p>
                         <p class="card-text">RA: 2650832123013</p>
-                        <p class="card-text">Função do Grupo: </p>
+                        <p class="card-text">Função do Grupo: O cara que gostou do Bootstrap</p>
                         <ul>
-                            <li><a href="#">-</a></li>
-                            <li><a href="#">-</a></li>
-                            <li><a href="#">-</a></li>
+                            <li><a href="cidadania.php">Cidadania</a></li>
+                            <li><a href="democracia_autoritarismo.php">Democracia vs Autoritarismo</a></li>
+                            <li><a href="linha_do_tempo.php">Linha do Tempo dos Presidentes</a></li>
+                            <li><a href="galeria_juizes.php">Galeria dos Juízes do STF</a></li>
                         </ul>
                     </div>
                 </div>
