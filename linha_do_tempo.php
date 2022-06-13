@@ -7,9 +7,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
 
-
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link rel="stylesheet" href="css/style.css">
+
 
 
 
@@ -23,10 +25,15 @@
   <?php include_once('php/header.php'); ?>
 
   <!-- Seta que leva para o topo do site -->
-  <a class="seta_para_cima" href="#linha_tempo">
-    <img class="w-75" src="imagens/seta.png" alt="Seta que leva para o topo da página">
+  <a class="btn btn-default btn-lg seta_para_cima rounded rounded-circle" href="#linha_tempo">
+    <i aria-hidden="true">
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#0d0d0d" class="bi bi-shift-fill"
+        viewBox="0 0 16 16">
+        <path
+          d="M7.27 2.047a1 1 0 0 1 1.46 0l6.345 6.77c.6.638.146 1.683-.73 1.683H11.5v3a1 1 0 0 1-1 1h-5a1 1 0 0 1-1-1v-3H1.654C.78 10.5.326 9.455.924 8.816L7.27 2.047z" />
+      </svg>
+    </i>
   </a>
-
 
   <article class="row container g-0 mx-auto my-5">
     <h1 class="row m-5 fs-1 mx-auto justify-content-center p-0">Linha do Tempo dos Presidentes</h1>
@@ -51,7 +58,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/01_deodoro_da_fonseca_(1889).jpg" alt="Deodoro da Fonseca">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/01_deodoro_da_fonseca_(1889).jpg" alt="Deodoro da Fonseca">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -80,7 +88,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/02_floriano_peixoto_(1891).jpg" alt="Floriano Peixoto">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/02_floriano_peixoto_(1891).jpg" alt="Floriano Peixoto">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -109,7 +118,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/03_prudente_de_morais.jpg" alt="Prudente de Morais">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/03_prudente_de_morais.jpg" alt="Prudente de Morais">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -138,7 +148,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/04_campos_sales.jpg" alt="Campos Sales">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/04_campos_sales.jpg" alt="Campos Sales">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -167,7 +178,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/05_rodrigues_alves.jpg" alt="Rodrigues Alves">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/05_rodrigues_alves.jpg" alt="Rodrigues Alves">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -196,7 +208,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/06_afonso_pena.jpg" alt="Afonso Pena">
+              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/06_afonso_pena.jpg"
+                alt="Afonso Pena">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -225,7 +238,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/07_nilo_pecanha.jpg" alt="Nilo Peçanha">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/07_nilo_pecanha.jpg" alt="Nilo Peçanha">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -254,7 +268,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/08_hermes_da_fonseca_(1910).jpg" alt="Hermes da Fonseca">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/08_hermes_da_fonseca_(1910).jpg" alt="Hermes da Fonseca">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -283,7 +298,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/09_venceslau_bras.jpg" alt="Venceslau Brás">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/09_venceslau_bras.jpg" alt="Venceslau Brás">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -312,7 +328,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/09.1_rodrigues_alves.jpg" alt="Rodrigues Alves">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/09.1_rodrigues_alves.jpg" alt="Rodrigues Alves">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -339,7 +356,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/10_delfim_moreira_(1918).jpg" alt="Delfim Moreira">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/10_delfim_moreira_(1918).jpg" alt="Delfim Moreira">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -368,7 +386,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/11_epitacio_pessoa_(1919).jpg" alt="Epitácio Pessoa">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/11_epitacio_pessoa_(1919).jpg" alt="Epitácio Pessoa">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -397,7 +416,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/12_artur_bernardes_(1922).jpg" alt="Artur Bernardes">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/12_artur_bernardes_(1922).jpg" alt="Artur Bernardes">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -426,7 +446,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/13_washington_luis.jpg" alt="Washington Luís">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/13_washington_luis.jpg" alt="Washington Luís">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -455,7 +476,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/13.1_julio_prestes_(1930).jpg" alt="Júlio Prestes">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/13.1_julio_prestes_(1930).jpg" alt="Júlio Prestes">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -494,7 +516,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/13.2_junta_governativa_de_1930.jpg" alt="Junta Governativa Provisória de 1930">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/13.2_junta_governativa_de_1930.jpg" alt="Junta Governativa Provisória de 1930">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -523,7 +546,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/14_getulio_dorneles_vargas_(1930).jpg" alt="Getúlio Vargas">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/14_getulio_dorneles_vargas_(1930).jpg" alt="Getúlio Vargas">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -564,7 +588,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/14_getulio_dorneles_vargas_(1930).jpg" alt="Getúlio Vargas">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/14_getulio_dorneles_vargas_(1930).jpg" alt="Getúlio Vargas">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -593,7 +618,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/15_jose_linhares.jpg" alt="José Linhares">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/15_jose_linhares.jpg" alt="José Linhares">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -634,7 +660,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/16_eurico_gaspar_dutra.jpg" alt="Eurico Gaspar Dutra">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/16_eurico_gaspar_dutra.jpg" alt="Eurico Gaspar Dutra">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -663,7 +690,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/17_getulio_dorneles_vargas_(1951).jpg" alt="Getúlio Vargas">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/17_getulio_dorneles_vargas_(1951).jpg" alt="Getúlio Vargas">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -692,7 +720,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/18_cafe_filho.jpg" alt="Café Filho">
+              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/18_cafe_filho.jpg"
+                alt="Café Filho">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -721,7 +750,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/19_carlos_luz.jpg" alt="Carlos Luz">
+              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/19_carlos_luz.jpg"
+                alt="Carlos Luz">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -750,7 +780,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/20_nereu_ramos.jpg" alt="Nereu Ramos">
+              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/20_nereu_ramos.jpg"
+                alt="Nereu Ramos">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -779,7 +810,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/21_juscelino_kubitschek.jpg" alt="Juscelino Kubitschek">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/21_juscelino_kubitschek.jpg" alt="Juscelino Kubitschek">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -808,7 +840,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/22_janio_quadros.jpg" alt="Jânio Quadros">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/22_janio_quadros.jpg" alt="Jânio Quadros">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -837,7 +870,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/23_ranieri_mazzilli_(1961).jpg" alt="Ranieri Mazzilli">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/23_ranieri_mazzilli_(1961).jpg" alt="Ranieri Mazzilli">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -866,7 +900,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/24_joao_goulart.jpg" alt="João Goulart">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/24_joao_goulart.jpg" alt="João Goulart">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -907,7 +942,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/25_ranieri_mazzilli_(1964).jpg" alt="Ranieri Mazzilli">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/25_ranieri_mazzilli_(1964).jpg" alt="Ranieri Mazzilli">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -936,7 +972,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/26_humberto_castelo_branco.jpg" alt="Humberto Castelo Branco">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/26_humberto_castelo_branco.jpg" alt="Humberto Castelo Branco">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -965,7 +1002,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/27_artur_da_costa_e_silva.jpg" alt="Artur da Costa e Silva">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/27_artur_da_costa_e_silva.jpg" alt="Artur da Costa e Silva">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -994,7 +1032,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/27.1_pedro_aleixo.jpg" alt="Pedro Aleixo">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/27.1_pedro_aleixo.jpg" alt="Pedro Aleixo">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -1021,7 +1060,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/27.2_junta_militar_brasileira_de_1969.jpg" alt="Junta militar de 1969">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/27.2_junta_militar_brasileira_de_1969.jpg" alt="Junta militar de 1969">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -1050,7 +1090,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/28_emilio_garrastazu_medici.jpg" alt="Emílio Garrastazu Médici">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/28_emilio_garrastazu_medici.jpg" alt="Emílio Garrastazu Médici">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -1079,7 +1120,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/29_ernesto_geisel.jpg" alt="Ernesto Geisel">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/29_ernesto_geisel.jpg" alt="Ernesto Geisel">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -1108,7 +1150,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/30_joao_figueiredo.jpg" alt="João Figueiredo">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/30_joao_figueiredo.jpg" alt="João Figueiredo">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -1149,7 +1192,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/30.1_tancredo_neves.jpg" alt="Tancredo Neves">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/30.1_tancredo_neves.jpg" alt="Tancredo Neves">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -1176,7 +1220,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/31_jose_sarney.jpg" alt="José Sarney">
+              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/31_jose_sarney.jpg"
+                alt="José Sarney">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -1205,7 +1250,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/32_fernando_affonso_collor_de_mello_(1992).jpg" alt="Fernando Collor">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/32_fernando_affonso_collor_de_mello_(1992).jpg" alt="Fernando Collor">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -1234,7 +1280,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/33_itamar_augusto_cautiero_franco.jpg" alt="Itamar Franco">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/33_itamar_augusto_cautiero_franco.jpg" alt="Itamar Franco">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -1263,7 +1310,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/34_fernando_henrique_cardoso_(1999).jpg" alt="Fernando Henrique Cardoso">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/34_fernando_henrique_cardoso_(1999).jpg" alt="Fernando Henrique Cardoso">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -1292,7 +1340,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/35_luiz_inacio_lula_da_silva.jpg" alt="Luiz Inácio Lula da Silva">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/35_luiz_inacio_lula_da_silva.jpg" alt="Luiz Inácio Lula da Silva">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -1321,7 +1370,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/36_dilma_rousseff.jpg" alt="Dilma Rousseff">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/36_dilma_rousseff.jpg" alt="Dilma Rousseff">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -1350,7 +1400,8 @@
           <figure class="row">
 
             <div class="col-6 order-md-2">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/37_michel_temer.jpg" alt="Michel Temer">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/37_michel_temer.jpg" alt="Michel Temer">
             </div>
 
             <figcaption class="col-6 row order-1 text-center align-items-center mx-auto p-0">
@@ -1379,7 +1430,8 @@
           <figure class="row">
 
             <div class="col-6">
-              <img class="w-100 border border-2 border-secondary rounded-3" src="imagens/presidentes/38_jair_messias_bolsonaro.jpg" alt="Jair Bolsonaro">
+              <img class="w-100 border border-2 border-secondary rounded-3"
+                src="imagens/presidentes/38_jair_messias_bolsonaro.jpg" alt="Jair Bolsonaro">
             </div>
 
             <figcaption class="col-6 row text-center align-items-center mx-auto p-0">
@@ -1405,14 +1457,16 @@
 
 
   <p class="referencias-footer text-center m-0">
-    <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold" href="referencias.html#LinhaTempoGaleria" target="_blank">Referências dessa página</a></small>
+    <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold"
+        href="referencias.html#LinhaTempoGaleria" target="_blank">Referências dessa página</a></small>
   </p>
 
   <?php include_once('php/footer.php'); ?>
 
 
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+    integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous">
   </script>
 </body>
 
