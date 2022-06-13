@@ -20,7 +20,7 @@
                 <div class="d-flex flex-row justify-content-evenly align-items-center align-self-center">
                     <img src="imagens/ufc.png" class="py-3" alt="Logo do Grupo" >
                     <p>Somos os Ursinhos Felizes em Chamas, mas pode nos chamar por UFC, </p>
-                    <a href="recrutamento.php"  class="btn btn-success">Aliste-se</a>
+                    <a href="recrutamento.php"  class="btn btn-success">Junte-se</a>
                 </div>
             </article>
             <aside class="d-flex justify-content-center align-items-start row">
