@@ -16,9 +16,9 @@
     <body id="judiciario">
         <?php include_once('php/header.php'); ?>
 
-        <div class="container-fluid  my-5">
+        <div class="container my-5">
 
-            <article class="d-flex flex-column m-auto col-lg-6">
+            <article class="d-flex flex-column m-auto col-lg-10">
                 <h1 class="text-center">Judiciário</h1>
                 <img src="imagens/judiciario.jpg"  class="img-fluid m-auto py-3" alt="imagem expressando o judiciario" >
                 <p>O Poder Judiciário é responsável por interpretar as leis e julgar. São compostos por juízes, que tomam decisões quando há conflitos entre as pessoas da sociedade, baseados no ordenamento jurídico do país.
