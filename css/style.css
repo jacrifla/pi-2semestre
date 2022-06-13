@@ -38,7 +38,7 @@ footer ul{
     background-color: #595959;
 }
 
-.paleta-branco-color, footer a, #header .nav-link{
+.paleta-branco-color, footer a, #header {
     color: #f2f2f2!important;
 }
 
@@ -71,7 +71,7 @@ footer ul{
 }
 
 #nav-tab .nav-link.active{
-  color: white!important;
+  /* color: white!important; */
   background-color: #0d0d0d;
 }
 
@@ -177,4 +177,9 @@ background-image: linear-gradient(to bottom right, #8C8C8C, #F2F2F2)
 }
 #quem-somos .card{
   width: 250px;
+}
+.active{
+  color:white !important;
+  font-weight: bold;
+  background-color: #0d0d0d !important;
 }
