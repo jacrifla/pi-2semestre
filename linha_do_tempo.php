@@ -17,10 +17,15 @@
 
 </head>
 
-<body>
+<body id="linha_tempo">
 
 
   <?php include_once('php/header.php'); ?>
+
+<!-- Seta que leva para o topo do site -->
+  <a type="button" class="seta_para_cima" href="#linha_tempo">
+          <img class="w-75" src="imagens/seta.png" alt="Seta que leva para o topo da página">
+  </a>
 
 
   <article class="row container g-0 mx-auto my-5">
@@ -29,20 +34,20 @@
 
     <!-- Título da Primeira República -->
     <section class="text-center align-items-center mx-auto lh-1 my-1">
-      <div class="daniel_presidente_title daniel_presidente_box rounded-pill">
+      <div class="presidente_title presidente_box rounded-pill">
         <h2 class="fs-2">Primeira República</h2>
         <p class="fs-4">República Velha</p>
         <p>15 de novembro de 1889 até 24 de outubro de 1930</p>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3 presidente_border"><br><br><br></div>
 
 
       <!-- 01 Deodoro da Fonseca -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -64,14 +69,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 02 Floriano Peixoto -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -90,17 +95,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 03 Prudente de Morais -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -122,14 +127,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 04 Campos Sales -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -148,17 +153,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 05 Rodrigues Alves -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -180,14 +185,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 06 Afonso Pena -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -206,17 +211,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 07 Nilo Peçanha -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -238,14 +243,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 08 Hermes da Fonseca -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -264,17 +269,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 09 Venceslau Brás -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -296,14 +301,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 09.1 Rodrigues Alves -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -320,17 +325,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 10 Delfim Moreira -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -352,14 +357,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 11 Epitácio Pessoa -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -378,17 +383,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 12 Artur Bernardes -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -410,14 +415,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 13 Washington Luís -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -436,17 +441,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 13.1 Júlio Prestes -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -466,26 +471,26 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br><br><br><br><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br><br><br><br><br><br><br></div>
     </section>
 
 
     <!-- Título da Segunda República -->
     <section class="text-center align-items-center mx-auto lh-1 my-1">
-      <div class="daniel_presidente_title daniel_presidente_box rounded-pill">
+      <div class="presidente_title presidente_box rounded-pill">
         <h2 class="fs-2">Segunda República</h2>
         <p class="fs-4">Governos Provisório e Constitucional</p>
         <p>24 de outubro de 1930 até 10 de novembro 1937</p>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 13.2 Junta Governativa Provisória de 1930 -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -504,17 +509,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 14 Getúlio Vargas -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -536,26 +541,26 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br><br><br><br><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br><br><br><br><br><br><br></div>
     </section>
 
 
     <!-- Título da Terceira República -->
     <section class="text-center align-items-center mx-auto lh-1 my-1">
-      <div class="daniel_presidente_title daniel_presidente_box rounded-pill">
+      <div class="presidente_title presidente_box rounded-pill">
         <h2 class="fs-2">Terceira República</h2>
         <p class="fs-4">Estado Novo</p>
         <p>10 de novembro 1937 até 31 de janeiro de 1946</p>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 14 Getúlio Vargas -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -574,17 +579,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 15 José Linhares -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -606,26 +611,26 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br><br><br><br><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br><br><br><br><br><br><br></div>
     </section>
 
 
     <!-- Título da Quarta República -->
     <section class="text-center align-items-center mx-auto lh-1 my-1">
-      <div class="daniel_presidente_title daniel_presidente_box rounded-pill">
+      <div class="presidente_title presidente_box rounded-pill">
         <h2 class="fs-2">Quarta República</h2>
         <p class="fs-4">República Populista</p>
         <p>31 de janeiro de 1946 até 2 de abril de 1964</p>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 16 Eurico Gaspar Dutra -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -644,17 +649,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 17 Getúlio Vargas -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -676,14 +681,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 18 Café Filho -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -702,17 +707,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 19 Carlos Luz -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -734,14 +739,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 20 Nereu Ramos -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -760,17 +765,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 21 Juscelino Kubitschek -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -792,14 +797,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 22 Jânio Quadros -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -818,17 +823,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 23 Ranieri Mazzilli -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -850,14 +855,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 24 João Goulart -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -876,29 +881,29 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br><br><br><br><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br><br><br><br><br><br><br></div>
     </section>
 
 
     <!-- Título da Quinta República -->
     <section class="text-center align-items-center mx-auto lh-1 my-1">
-      <div class="daniel_presidente_title daniel_presidente_box rounded-pill">
+      <div class="presidente_title presidente_box rounded-pill">
         <h2 class="fs-2">Quinta República</h2>
         <p class="fs-4">Ditadura Militar</p>
         <p>2 de abril de 1964 até 15 de março de 1985</p>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 25 Ranieri Mazzilli -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -920,14 +925,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 26 Humberto Castelo Branco -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -946,17 +951,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 27 Artur da Costa e Silva -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -978,14 +983,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 27.1 Pedro Aleixo -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -1002,17 +1007,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 27.2 Junta militar de 1969 -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -1034,14 +1039,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 28 Emílio Garrastazu Médici -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -1060,17 +1065,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 29 Ernesto Geisel -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -1092,14 +1097,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 30 João Figueiredo -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -1118,29 +1123,29 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br><br><br><br><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br><br><br><br><br><br><br></div>
     </section>
 
 
     <!-- Título da Sexta República -->
     <section class="text-center align-items-center mx-auto lh-1 my-1">
-      <div class="daniel_presidente_title daniel_presidente_box rounded-pill">
+      <div class="presidente_title presidente_box rounded-pill">
         <h2 class="fs-2">Sexta República</h2>
         <p class="fs-4">Nova República</p>
         <p>15 de março de 1985 à atualidade</p>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 30.1 Tancredo Neves -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -1160,14 +1165,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 31 José Sarney -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -1186,17 +1191,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 32 Fernando Collor -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -1218,14 +1223,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 33 Itamar Franco -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -1244,17 +1249,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 34 Fernando Henrique Cardoso -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -1276,14 +1281,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 35 Luiz Inácio Lula da Silva -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -1302,17 +1307,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 36 Dilma Rousseff -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -1334,14 +1339,14 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 37 Michel Temer -->
       <!-- Linha com Caixa na Direita -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Direita -->
-        <div class="col-sm-12 col-md-6 order-2 border-3 daniel_presidente_border_l daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 order-2 border-3 presidente_border_l presidente_box p-4">
           <figure class="row">
 
             <div class="col-6 order-md-2">
@@ -1360,17 +1365,17 @@
           </figure>
         </div>
         <!-- Caixa vazia da Esquerda -->
-        <div class="col-6 order-1 daniel_presidente_border"></div>
+        <div class="col-6 order-1 presidente_border"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
 
 
       <!-- 38 Jair Bolsonaro -->
       <!-- Linha com Caixa na Esquerda -->
       <div class="row container-fluid g-0 my-1 px-1">
         <!-- Caixa da Esquerda -->
-        <div class="col-sm-12 col-md-6 border-3 daniel_presidente_border_r daniel_presidente_box p-4">
+        <div class="col-sm-12 col-md-6 border-3 presidente_border_r presidente_box p-4">
           <figure class="row">
 
             <div class="col-6">
@@ -1392,7 +1397,7 @@
         <div class="col-6 d-sm-none"></div>
       </div>
       <!-- Tracejado do modo small -->
-      <div class="col-6 border-3  daniel_presidente_border"><br><br><br></div>
+      <div class="col-6 border-3  presidente_border"><br><br><br></div>
     </section>
 
 
