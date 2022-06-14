@@ -23,7 +23,7 @@
             </div>
         </div>
         <div class="row align-itens-center">
-            <h1 class="col-12 p-4 text-center"><strong>Marília Arraes</strong></h1>
+            <h1 class="col-12 p-4 text-center">Marília Arraes</h1>
         </div>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos itaque culpa dicta reprehenderit natus aliquid
             distinctio veniam vero. Quibusdam voluptate numquam placeat dolorem perferendis, aliquid delectus similique
@@ -34,27 +34,27 @@
     </article>
     <div class="container" id="gallery-container">
         <div class="col-12 p-4">
-            <h3><strong>Acompanhe outros candidatos</strong></h3>
+            <h3>Acompanhe outros candidatos</h3>
         </div>
         <div class="row d-flex justify-content-center">
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/sergio-moro.jpg" class="img-thumbnail img-fluid" alt="moro">
-                <h5><strong>Sérgio Moura</strong></h5>
-                <p class="secondary-color">Realizada em: 14/06/2021</p>
+                <h5>Sérgio Moro</h5>
+                <p class="secondary-color">Partido União Brasil</p>
                 <a class="btn link" href="moro.php">Veja mais</a>
             </section>
 
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/carlos-moises.jpg" class="img-thumbnail img-fluid" alt="carlos">
-                <h5><strong>Carlos Moises</strong></h5>
-                <p class="secondary-color">Realizada em: 19/01/2018</p>
+                <h5>Carlos Moises</h5>
+                <p class="secondary-color">Partido Republicanos</p>
                 <a class="btn link" href="carlos.php">Veja mais</a>
             </section>
 
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/flavia-arruda.jpg" class="img-thumbnail img-fluid" alt="flavia">
-                <h5><strong>Flávia Arruda</strong></h5>
-                <p class="secondary-color">Realizada em: 12/12/2015</p>
+                <h5>Flávia Arruda</h5>
+                <p class="secondary-color">Partido Liberal</p>
                 <a class="btn link" href="flavia.php">Veja mais</a>
             </section>
         </div>

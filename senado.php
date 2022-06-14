@@ -17,60 +17,56 @@
 <body id="senado">
   <?php include_once('php/header.php'); ?>
   <main class="my-5">
-  <article class="container">
-    <div class="row align-items-center">
-      <div class="col-12">
-        <img src="imagens/camara.jpg" class="img-fluid rounded mx-auto d-block" alt="camara" id="camara-senado">
+    <article class="container">
+      <div class="row align-items-center">
+        <div class="col-12">
+          <img src="imagens/camara.jpg" class="img-fluid rounded mx-auto d-block" alt="camara" id="camara-senado">
+        </div>
+      </div>
+      <div class="row align-itens-center p-4">
+        <h1 class="text-center">Pré-Candidatos ao Senado</h1>
+        <p>Agora chegamos no momento de falar quem são os pré-candidatos para a
+          eleição que
+          acontecerá em outubro de
+          2022. Iremos listar alguns dos pricipais candidados ao cargo de Senadores.
+          Falaremos um pouco de suas trajetorias politica.</p>
+      </div>
+    </article>
+
+    <div class="container g-0" id="gallery-container">
+      <div class="col-12 p-4">
+        <h3>Veja Também</h3>
+      </div>
+      <div class="row d-flex justify-content-center">
+        <section class="col-sm-12 col-md-6 col-lg-3 border card-pres mx-1 senador">
+          <img src="imagens/sergio-moro.jpg" class="img-thumbnail img-fluid" alt="moro">
+          <h5>Sergio Moro</h5>
+          <p class="secondary-color">Partido União Brasil</p>
+          <a class="btn link" href="moro.php">Veja mais</a>
+        </section>
+
+        <section class="col-sm-12 col-md-6 col-lg-3  border card-pres mx-1 senador">
+          <img src="imagens/carlos-moises.jpg" class="img-thumbnail img-fluid" alt="carlos">
+          <h5>Carlos Moises</h5>
+          <p class="secondary-color">Partido Republicanos</p>
+          <a class="btn link" href="carlos.php">Veja mais</a>
+        </section>
+
+        <section class="col-sm-12 col-md-6 col-lg-3 border card-pres mx-1 senador">
+          <img src="imagens/flavia-arruda.jpg" class="img-thumbnail img-fluid" alt="flavia">
+          <h5>Flávia Arruda</h5>
+          <p class="secondary-color">Partido Liberal</p>
+          <a class="btn link" href="flavia.php">Veja mais</a>
+        </section>
+
+        <section class="col-sm-12 col-md-6 col-lg-3 border card-pres mx-1 senador">
+          <img src="imagens/marilia-arraes.jpg" class="img-thumbnail img-fluid" alt="marilia">
+          <h5>Marília Arraes</h5>
+          <p class="secondary-color">Solidariedade</p>
+          <a class="btn link" href="marilia.php">Veja mais</a>
+        </section>
       </div>
     </div>
-    <div class="row align-itens-center p-4">
-      <h1 class="text-center"><strong>Pré-Candidatos ao Senado</strong></h1>
-      <p>Agora chegamos no momento de falar quem são os pré-candidatos para a
-        eleição que
-        acontecerá em outubro de
-        2022. Iremos listar alguns dos pricipais candidados ao cargo de Senadores.
-        Falaremos um pouco de suas trajetorias politica, algumas propostas caso o pré-candidato tenha expresado até
-        o
-        presente momento, pois ainda se encontra em pré-candidatura.</p>
-    </div>
-  </article>
-
-  <div class="container" id="gallery-container">
-    <div class="col-12 p-4">
-      <h3><strong>Veja Também</strong></h3>
-    </div>
-    <div class="container" id="gallery-container-senado">
-    </div>
-    <div class="row d-flex justify-content-center">
-      <section class="col-sm-12 col-md-6 col-lg-3 border card-pres mx-1 senador">
-        <img src="imagens/sergio-moro.jpg" class="img-thumbnail img-fluid" alt="moro">
-        <h5><strong>Sergio Moro</strong></h5>
-        <p class="secondary-color">Realizada em: 26/01/2018</p>
-        <a class="btn link" href="moro.php">Veja mais</a>
-      </section>
-
-      <section class="col-sm-12 col-md-6 col-lg-3  border card-pres mx-1 senador">
-        <img src="imagens/carlos-moises.jpg" class="img-thumbnail img-fluid" alt="carlos">
-        <h5><strong>Carlos Moises</strong></h5>
-        <p class="secondary-color">Realizada em: 14/06/2021</p>
-        <a class="btn link" href="carlos.php">Veja mais</a>
-      </section>
-
-      <section class="col-sm-12 col-md-6 col-lg-3 border card-pres mx-1 senador">
-        <img src="imagens/flavia-arruda.jpg" class="img-thumbnail img-fluid" alt="flavia">
-        <h5><strong>Flávia Arruda</strong></h5>
-        <p class="secondary-color">Realizada em: 19/01/2018</p>
-        <a class="btn link" href="flavia.php">Veja mais</a>
-      </section>
-
-      <section class="col-sm-12 col-md-6 col-lg-3 border card-pres mx-1 senador">
-        <img src="imagens/marilia-arraes.jpg" class="img-thumbnail img-fluid" alt="marilia">
-        <h5><strong>Marília Arraes</strong></h5>
-        <p class="secondary-color">Realizada em: 12/12/2015</p>
-        <a class="btn link" href="marilia.php">Veja mais</a>
-      </section>
-    </div>
-  </div>
   </main>
   <p class="referencias-footer text-center m-0">
     <small class="paleta-preto-color ">Acesse também: <a class="paleta-preto-color fw-bold"

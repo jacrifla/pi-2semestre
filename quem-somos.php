@@ -14,7 +14,7 @@
 
     <body id="quem-somos">
     <?php include_once('php/header.php'); ?>
-        <div class="container-fluid my-5">
+        <div class="container my-5 g-0">
             <article>
                 <h1 class="text-center">Quem Somos</h1>
                 <div class="d-flex flex-row justify-content-evenly align-items-center align-self-center">
@@ -25,7 +25,7 @@
             </article>
             <aside class="d-flex justify-content-center align-items-start row">
 
-                <div class="card col-sm-12 mx-md-4 my-2" >
+                <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" >
                     <img src="imagens/daniel.jpg" class="card-img-top py-2" alt="Daniel">
                     <div class="card-body">
                         <p class="card-text">Daniel</p>
@@ -41,7 +41,7 @@
                     </div>
                 </div>
 
-                <div class="card col-sm-12 mx-md-4 my-2" >
+                <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" >
                     <img src="imagens/jaque.jpg" class="card-img-top py-2" alt="integrante do grupo, Jaquelini">
                     <div class="card-body">
                         <p class="card-text">Jaquelini</p>
@@ -56,7 +56,7 @@
                     </div>
                 </div>
 
-                <div class="card col-sm-12 mx-md-4 my-2">
+                <div class="card col-sm-12 col-md-6 col-lg-3 mx-1">
                     <img src="imagens/guilherme.jpg" class="card-img-top py-2" alt="...">
                     <div class="card-body">
                         <p class="card-text">José Guilherme</p>
@@ -70,7 +70,7 @@
                     </div>
                 </div>
 
-                <div class="card col-sm-12 mx-md-4 my-2">
+                <div class="card col-sm-12 col-md-6 col-lg-3 mx-1">
                     <img src="imagens/sthefani.jpg" class="card-img-top py-2" alt="Sthefani">
                     <div class="card-body">
                         <p class="card-text">Sthefani</p>

@@ -16,23 +16,20 @@
 
 <body id="presidente">
     <?php include_once('php/header.php'); ?>
-    <div class="container  my-5">
+    <div class="container my-5 g-0">
 
 
         <div class="row p-4">
             <h1 class="text-center mb-4">Pré-Candidatos a Presidência</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt tempora deserunt doloribus voluptate,
-                saepe
-                aut sit facilis neque repellendus nihil eaque obcaecati impedit necessitatibus modi ipsam quo pariatur
-                molestiae expedita.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi iusto ipsa repudiandae maxime? Non
-                molestiae
-                debitis eos quos rem ducimus nostrum doloremque, excepturi laborum sunt dolorem, possimus ipsum
-                voluptate
-                aspernatur!</p>
+            <p>Aqui listamos os principais candidatos a Presidência da República nesta eleição de 2022, onde apontamos a
+                sua trajetória até chegar a sua pré-candidatura. Por se tratar de uma fase de pré-candidatura, os
+                candidatos não anunciaram de maneira formal as suas propostas, mas conforme suas entrevistas conseguimos
+                listar algumas onde você conseguirá ver no decorrer dessa página, para que após sua leitura, você
+                eleitor saia mais informado e consciente do seu voto no dia 2 de outubro.
+            </p>
         </div>
         <div class="row d-flex justify-content-center">
-            <div class="col-sm-12 col-md-6 col-lg-3 card mx-1" style="width: 270px;">
+            <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
                 <img src="imagens/presidentes/38_jair_messias_bolsonaro.jpg" class="card-img-top" alt="bolsonaro">
                 <div class="card-body">
                     <h5 class="card-title text-center">Jair Messias Bolsonaro</h5>
@@ -42,7 +39,7 @@
                 <ul class="list-group list-group-flush">
                 </ul>
                 <div class="card-body">
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal-1">
+                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#modal-1">
                         Veja mais
                     </button>
                     <div class="modal fade" id="modal-1" tabindex="-1" aria-labelledby="ModalLabel-1"
@@ -80,7 +77,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-3 card mx-1" style="width: 270px;">
+            <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
                 <img src="imagens/presidentes/35_luiz_inacio_lula_da_silva.jpg" class="card-img-top" alt="lula">
                 <div class="card-body">
                     <h5 class="card-title text-center">Lula</h5>
@@ -90,7 +87,7 @@
                 <ul class="list-group list-group-flush">
                 </ul>
                 <div class="card-body">
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal-2">
+                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#Modal-2">
                         Veja mais
                     </button>
                     <div class="modal fade" id="Modal-2" tabindex="-1" aria-labelledby="ModalLabel-2"
@@ -141,7 +138,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-3 card mx-1" style="width: 270px;">
+            <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
                 <img src="imagens/ciro-gomes.jpg" class="card-img-top" alt="ciro">
                 <div class="card-body">
                     <h5 class="card-title text-center">Ciro Gomes</h5>
@@ -151,7 +148,7 @@
                 <ul class="list-group list-group-flush">
                 </ul>
                 <div class="card-body">
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal-3">
+                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#Modal-3">
                         Veja mais
                     </button>
                     <div class="modal fade" id="Modal-3" tabindex="-1" aria-labelledby="ModalLabel-3"
@@ -215,7 +212,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-3 card mx-1" style="width: 270px;">
+            <div class="card col-sm-12 col-md-6 col-lg-3 mx-1" style="width: 270px;">
                 <img src="imagens/joao-doria.jpg" class="card-img-top" alt="doria">
                 <div class="card-body">
                     <h5 class="card-title text-center">João Doria</h5>
@@ -225,7 +222,7 @@
                 <ul class="list-group list-group-flush">
                 </ul>
                 <div class="card-body">
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#Modal-4">
+                    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#Modal-4">
                         Veja mais
                     </button>
                     <div class="modal fade" id="Modal-4" tabindex="-1" aria-labelledby="ModalLabel-4"

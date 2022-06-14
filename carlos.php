@@ -24,38 +24,45 @@
             </div>
         </div>
         <div class="row align-itens-center">
-            <h1 class="col-12 p-4 text-center"><strong>Carlos Moisés</strong></h1>
+            <h1 class="col-12 p-4 text-center">Carlos Moisés</h1>
         </div>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos itaque culpa dicta reprehenderit natus aliquid
-            distinctio veniam vero. Quibusdam voluptate numquam placeat dolorem perferendis, aliquid delectus similique
-            impedit magni</p>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quas, praesentium asperiores alias qui
-            officiis, ut nihil placeat odit quasi impedit tempore odio dolore doloribus sint earum voluptate dolorem
-            nam.</p>
+        <p>Carlos Moisés da Silva,possui como formação um bacharelado em direito; profissão que acabou não seguindo por
+            força das circunstâncias. Iniciou a sua carreira profissional como membro do Corpo de Bombeiros Militar de
+            Santa Catarina (de 1987 a 1990), após ter concluído o Curso de Formação de Oficiais da Academia de Polícia.
+            Outras funções executadas por Carlos Moisés foram as de Coordenador Regional de Defesa Civil,
+            Corregedor-Adjunto do Corpo de Bombeiros de Santa Catarina, Secretário de Justiça e Cidadania, até chegar a
+            coronel do Corpo de Bombeiros, onde aposentou-se. Na sua trajetória política no ano de 2018, filiou-se ao
+            Partido Social Liberal (PSL), disputou eleições ao cargo de Governador do Estado de Santa Catarina, fez
+            campanha como “Comandante Moisés” foi a ida ao segundo turno das eleições para governador de Santa Catarina
+            na 2ª colocação, com simplórios 29,72% dos votos no 1º turno, para ao final sair vitorioso com nada mais
+            nada menos do que 70% dos votos válidos na disputa com Gelson Merisio do PSD. No início de 2022, com o fim
+            do partido PSL, que se juntou ao DEM para fundar o União Brasil, o Governador mudou de partido, a partir de
+            março do ano que concorrerá à reeleição, passou para a sigla Republicanos.
+        </p>
     </article>
     <div class="container" id="gallery-container">
         <div class="col-12 p-4">
-            <h3><strong>Acompanhe outros candidatos</strong></h3>
+            <h3>Acompanhe outros candidatos</h3>
         </div>
         <div class="row d-flex justify-content-center">
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/sergio-moro.jpg" class="img-thumbnail img-fluid" alt="moro">
-                <h5><strong>Sérgio Moro</strong></h5>
-                <p class="secondary-color">Realizada em: 14/06/2021</p>
+                <h5>Sérgio Moro</h5>
+                <p class="secondary-color">Partido União Brasil</p>
                 <a class="btn link" href="moro.php">Veja mais</a>
             </section>
 
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/flavia-arruda.jpg" class="img-thumbnail img-fluid" alt="flavia">
-                <h5><strong>Flávia Arruda</strong></h5>
-                <p class="secondary-color">Realizada em: 19/01/2018</p>
+                <h5>Flávia Arruda</h5>
+                <p class="secondary-color">Partido Liberal</p>
                 <a class="btn link" href="flavia.php">Veja mais</a>
             </section>
 
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/marilia-arraes.jpg" class="img-thumbnail img-fluid" alt="marilia">
-                <h5><strong>Marília Arraes</strong></h5>
-                <p class="secondary-color">Realizada em: 12/12/2015</p>
+                <h5>Marília Arraes</h5>
+                <p class="secondary-color">Solidariedade</p>
                 <a class="btn link" href="marilia.php">Veja mais</a>
             </section>
         </div>

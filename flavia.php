@@ -23,38 +23,45 @@
             </div>
         </div>
         <div class="row align-itens-center">
-            <h1 class="col-12 p-4 text-center"><strong>Flávia Arruda</strong></h1>
+            <h1 class="col-12 p-4 text-center">Flávia Arruda</h1>
         </div>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos itaque culpa dicta reprehenderit natus aliquid
-            distinctio veniam vero. Quibusdam voluptate numquam placeat dolorem perferendis, aliquid delectus similique
-            impedit magni</p>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quas, praesentium asperiores alias qui
-            officiis, ut nihil placeat odit quasi impedit tempore odio dolore doloribus sint earum voluptate dolorem
-            nam.</p>
+        <p>Flávia Carolina Péres, mais conhecida como Flávia Arruda, filiada ao Partido Liberal (PL) e presidente da
+            sigla do Distrito Federal. Foi ministra-chefe da Secretaria de Governo do Brasil de 2021 a 2022. Flávia
+            trabalhou em Taguatinga por um período, até decidir montar uma escola, no Recanto das Emas. Casada com o
+            político José Roberto Arruda, é mãe de duas filhas. Em 2019, concluiu o curso de Direito. Em 2021, foi
+            eleita presidente da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização (CMO) do Congresso
+            Nacional. No mesmo ano, foi nomeada Ministra-chefe da Secretaria de Governo do Brasil. Em sua primeira
+            incursão na política, Flávia tornou-se vice-governadora na chapa de Jofran Frejat. Isso ocorreu devido a
+            Justiça Eleitoral indeferir a candidatura a governador de seu companheiro, José Roberto Arruda, após ter
+            sido de preso de maneira preventiva pelo seu envolvimento no Mensalão do DEM. Com 428.522 votos, a chapa
+            ficou em segundo lugar, sendo derrotada para Rodrigo Rollemberg do Partido Socialista Brasileiro (PSB). Nas
+            eleições distritais de 2018 foi eleita deputada federal pelo Distrito Federal e obteve 121.340 votos
+            totalizados (8,43% dos votos válidos), sendo a deputada mais votada para o cargo.
+        </p>
     </article>
     <div class="container" id="gallery-container">
         <div class="col-12 p-4">
-            <h3><strong>Acompanhe outros candidatos</strong></h3>
+            <h3>Acompanhe outros candidatos</h3>
         </div>
         <div class="row d-flex justify-content-center">
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/sergio-moro.jpg" class="img-thumbnail img-fluid" alt="moro">
-                <h5><strong>Sérgio Moro</strong></h5>
-                <p class="secondary-color">Realizada em: 14/06/2021</p>
+                <h5>Sérgio Moro</h5>
+                <p class="secondary-color">Partido União Brasil</p>
                 <a class="btn link" href="moro.php">Veja mais</a>
             </section>
 
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/carlos-moises.jpg" class="img-thumbnail img-fluid" alt="carlos">
-                <h5><strong>Carlos Moises</strong></h5>
-                <p class="secondary-color">Realizada em: 19/01/2018</p>
+                <h5>Carlos Moises</h5>
+                <p class="secondary-color">Partido Republicanos</p>
                 <a class="btn link" href="carlos.php">Veja mais</a>
             </section>
 
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/marilia-arraes.jpg" class="img-thumbnail img-fluid" alt="marilia">
-                <h5><strong>Marília Arraes</strong></h5>
-                <p class="secondary-color">Realizada em: 12/12/2015</p>
+                <h5>Marília Arraes</h5>
+                <p class="secondary-color">Solidariedade</p>
                 <a class="btn link" href="marilia.php">Veja mais</a>
             </section>
         </div>

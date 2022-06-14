@@ -23,38 +23,40 @@
             </div>
         </div>
         <div class="row align-itens-center">
-            <h1 class="col-12 p-4 text-center"><strong>Sergio Moro</strong></h1>
+            <h1 class="col-12 p-4 text-center">Sergio Moro</h1>
         </div>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos itaque culpa dicta reprehenderit natus aliquid
-            distinctio veniam vero. Quibusdam voluptate numquam placeat dolorem perferendis, aliquid delectus similique
-            impedit magni</p>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quas, praesentium asperiores alias qui
-            officiis, ut nihil placeat odit quasi impedit tempore odio dolore doloribus sint earum voluptate dolorem
-            nam.</p>
+        <p>Sérgio Fernando Moro ex-juiz da policia federal ficou nacionalmente conhecido por atuar nos casos de grande
+            destaque da Lava Jato, que foi considerado a maior e a mais duradora operação contra corrupção no âmbito
+            federal, outros casos se destacam em sua carreira como juiz dentre elas a operação do Farol Colina nas
+            ainvestigações sobre o Banco do Estado do Paraná e o desdobramento do primeiro onde houve a condenação do
+            traficante Fernandinho Beira Mar. Em 2019 entra pra o seu cargo com maior destaque, a convite do Presidente
+            Jair Messias Bolsonaro a assumir o cargo de Ministro da Justiça, porém, em 2020 ele renuncia. Sérgio Moro
+            não havia pronunciado nenhuma proposta e no dia 31 de março ele anuncia oficialmente a sua desistência de
+            sua pré-candidatura a presidência.</p>
     </article>
     <div class="container" id="gallery-container">
         <div class="col-12 p-4">
-            <h3><strong>Acompanhe outros candidatos</strong></h3>
+            <h3>Acompanhe outros candidatos</h3>
         </div>
         <div class="row d-flex justify-content-center">
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/carlos-moises.jpg" class="img-thumbnail img-fluid" alt="carlos">
-                <h5><strong>Carlos Moises</strong></h5>
-                <p class="secondary-color">Realizada em: 14/06/2021</p>
+                <h5>Carlos Moises</h5>
+                <p class="secondary-color">Partido Republicanos</p>
                 <a class="btn link" href="carlos.php">Veja mais</a>
             </section>
 
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 border senador">
                 <img src="imagens/flavia-arruda.jpg" class="img-thumbnail img-fluid" alt="flavia">
-                <h5><strong>Flávia Arruda</strong></h5>
-                <p class="secondary-color">Realizada em: 19/01/2018</p>
+                <h5>Flávia Arruda</h5>
+                <p class="secondary-color">partido Liberal</p>
                 <a class="btn link" href="flavia.php">Veja mais</a>
             </section>
 
             <section class="col-sm-12 col-md-3 col-lg-3 m-3 boder senador">
                 <img src="imagens/marilia-arraes.jpg" class="img-thumbnail img-fluid" alt="marilia">
-                <h5><strong>Marília Arraes</strong></h5>
-                <p class="secondary-color">Realizada em: 12/12/2015</p>
+                <h5>Marília Arraes</h5>
+                <p class="secondary-color">Solidariedade</p>
                 <a class="btn link" href="marilia.php">Veja mais</a>
             </section>
         </div>
