@@ -110,24 +110,34 @@
                                         fundador do Partidos dos Trabalhadores (PT). Luiz Inácio Lula da Silva teve
                                         grande destaque no Sindicato dos Metalúrgicos no ABC. Em seus mandatos seus
                                         discursos sempre enérgicos e com um cunho populista. Para as eleições de 2022
-                                        podemos destacar algumas propostas como:
-                                        <br>
-                                        <br>
-                                        • Regulamentação da impressa;
-                                        <br>
-                                        • Fim do teto de gastos para a educação e saúde;
-                                        <br>
-                                        • Limite de gastos para a classe média;
-                                        <br>
-                                        • Cancelamento do projeto de privatização da Petrobras;
-                                        <br>
-                                        • Estreitar relações Brasil / Venezuela;
-                                        <br>
-                                        • Nova Reforma Trabalhista;
-                                        <br>
-                                        • Implementar novo Bolsa Família;
-                                        <br>
-                                        • Políticas de valorização real do salário mínimo.</p>
+                                        podemos destacar algumas propostas como:</p>
+                                    <ul>
+                                        <li>
+                                            Regulamentação da impressa;
+                                        </li>
+                                        <li>
+                                            Fim do teto de gastos para a educação e saúde;
+                                        </li>
+                                        <li>
+                                            Limite de gastos para a classe média;
+                                        </li>
+                                        <li>
+                                            Cancelamento do projeto de privatização da Petrobras;
+                                        </li>
+                                        <li>
+                                            Estreitar relações Brasil / Venezuela;
+                                        </li>
+                                        <li>
+                                            Nova Reforma Trabalhista;
+                                        </li>
+                                        <li>
+                                            Implementar novo Bolsa Família;
+                                        </li>
+                                        <li>
+                                            Políticas de valorização real do salário mínimo.
+                                        </li>
+
+                                    </ul>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-secondary"
@@ -180,28 +190,39 @@
                                         com
                                         o seu discursos enérgicos, rebuscado e como seus jargões característicos. Para
                                         essa
-                                        eleições podemos destacar algumas de suas propostas:
-                                        <br>
-                                        <br>
-                                        • Manter o equilíbrio fiscal;
-                                        <br>
-                                        • Fim do teto de gastos em educação, saúde e infraestrutura;
-                                        <br>
-                                        • Valorizar o pensamento crítico e analítico;
-                                        <br>
-                                        • Investir na formação e remuneração dos professores;
-                                        <br>
-                                        • Implantar um sistema de dados para integrar fichas criminais, banco de DNA,
-                                        reconhecimento facial, monitoramento online de áreas estratégicas e
-                                        aperfeiçoamento
-                                        dos radares das fronteiras;
-                                        <br>
-                                        • Prioridade no combate ao crime organizado e às milícias.
-                                        <br>
-                                        • Reverter política atual para Ibama, Inpe e Embrapa, aumentando efetivo e
-                                        fiscalização;
-                                        <br>
-                                        • Incumbir Exército de atuar contra o desmatamento.</p>
+                                        eleições podemos destacar algumas de suas propostas:</p>
+
+                                    <ul>
+                                        <li>
+                                            Manter o equilíbrio fiscal;
+                                        </li>
+                                        <li>
+                                            Fim do teto de gastos em educação, saúde e infraestrutura;
+                                        </li>
+                                        <li>
+                                            Valorizar o pensamento crítico e analítico;
+                                        </li>
+                                        <li>
+                                            Investir na formação e remuneração dos professores;
+                                        </li>
+                                        <li>
+                                            Implantar um sistema de dados para integrar fichas criminais, banco de DNA,
+                                            reconhecimento facial, monitoramento online de áreas estratégicas e
+                                            aperfeiçoamento
+                                            dos radares das fronteiras;
+                                        </li>
+                                        <li>
+                                            Prioridade no combate ao crime organizado e às milícias;
+                                        </li>
+                                        <li>
+                                            Reverter política atual para Ibama, Inpe e Embrapa, aumentando efetivo e
+                                            fiscalização;
+                                        </li>
+                                        <li>
+                                            Incumbir Exército de atuar contra o desmatamento.
+                                        </li>
+
+                                    </ul>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="btn btn-secondary"
