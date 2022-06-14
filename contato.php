@@ -13,7 +13,7 @@
 
     </head>
 
-    <body>
+    <body id="contato">
     <?php include_once('php/header.php'); ?>
 
         <div class="  my-5 container d-flex align-items-center flex-column">
@@ -25,10 +25,11 @@
                     <div class="card card-home mb-3 p-3">
                         <h3 class="card-title">Redes Sociais</h3>
 
-                        <ul class="card-body">
-                            <li><a href="#" class="no-line">Instagram</a></li>
-                            <li><a href="#" class="no-line">Facebook</a></li>
-                            <li><a href="#" class="no-line">Twitter</a></li>
+                        <ul>
+                            <li class="no-point"><a href="#" class="no-line">Instagram</a></li>
+                            
+                            <li class="no-point"><a href="#" class="no-line">Facebook</a></li>
+                            <li class="no-point"><a href="#" class="no-line">Twitter</a></li>
                         </ul>
                     </div>
                     <div class="card card-home mb-3 p-3">
