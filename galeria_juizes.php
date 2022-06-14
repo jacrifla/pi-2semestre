@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
 
-
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link rel="stylesheet" href="css/style.css">
@@ -18,11 +18,21 @@
 
 </head>
 
-<body>
+<body id="galeria_juizes">
 
 
   <?php include_once('php/header.php'); ?>
 
+  <!-- Seta que leva para o topo do site -->
+  <a class="btn btn-default btn-lg seta_para_cima rounded rounded-circle" href="#galeria_juizes">
+    <i aria-hidden="true">
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="#0d0d0d" class="bi bi-shift-fill"
+        viewBox="0 0 16 16">
+        <path
+          d="M7.27 2.047a1 1 0 0 1 1.46 0l6.345 6.77c.6.638.146 1.683-.73 1.683H11.5v3a1 1 0 0 1-1 1h-5a1 1 0 0 1-1-1v-3H1.654C.78 10.5.326 9.455.924 8.816L7.27 2.047z" />
+      </svg>
+    </i>
+  </a>
 
   <main class="my-5">
     <article class="container justify-content-center">
