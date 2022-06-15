@@ -42,7 +42,7 @@
               </div>
               <div class="col-8">
                 <div class="card-body">
-                  <a href="">
+                  <a href="presidente.php">
                     <h5 class="card-title">Candidaturas</h5>
                   </a>
                   <p class="card-text">Conheça os candidatos à Presidente e Senadores!</p>
