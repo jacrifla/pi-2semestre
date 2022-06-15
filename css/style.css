@@ -176,7 +176,11 @@ background-image: linear-gradient(to bottom right, #8C8C8C, #F2F2F2)
   color: #FFF;
 }
 
+#funcoes{
+color: #0d0d0d !important;
+font-weight: 600 !important;
 
+}
 .senador {
   text-align: center;
   border: 2px solid #555;

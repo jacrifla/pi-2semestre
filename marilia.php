@@ -25,12 +25,23 @@
         <div class="row align-itens-center">
             <h1 class="col-12 p-4 text-center">Marília Arraes</h1>
         </div>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos itaque culpa dicta reprehenderit natus aliquid
-            distinctio veniam vero. Quibusdam voluptate numquam placeat dolorem perferendis, aliquid delectus similique
-            impedit magni</p>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quas, praesentium asperiores alias qui
-            officiis, ut nihil placeat odit quasi impedit tempore odio dolore doloribus sint earum voluptate dolorem
-            nam.</p>
+        <p>Marília Valença Rocha Arraes de Alencarmais conhecida como Marília Arraes, é uma advogada e política
+            brasileira, filiada ao Solidariedade. Atualmente exerce o mandato de deputada federal por Pernambuco. É neta
+            de Miguel Arraes. Filiou-se ao PSB em 2005, partido que foi presidido por Arraes. Marília sempre teve um
+            trabalho ativo, militando em diversas campanhas socialistas. Durante o curso de direito, engajou-se no
+            movimento estudantil, debatendo gênero e a pluralidade de direitos, além de trabalhar em projetos de
+            melhorias para conservação do patrimônio da universidade. Aos 24 anos, elegeu-se vereadora do Recife com 9
+            533 votos, Em 2012, reelegeu-se vereadora com 8 841 votos. Em outubro de 2016, Marília disputou novamente as
+            eleições municipais foi eleita com 11 872 votos, uma das maiores votações da atual legislatura e uma das
+            mais expressivas entre os parlamentares do PT nas regiões Nordeste, Norte, Sul e Centro-Oeste. Assumiu a
+            liderança da bancada de oposição na Casa José Mariano, reafirmando sua posição política e sua luta ao lado
+            do povo recifense em busca de uma cidade melhor. Comprometida com os ideais do partido, Marília esteve à
+            frente do grupo de parlamentares e lideranças que coordenou toda a resistência contra o impeachment da
+            ex-presidente Dilma Rousseff. Apoiada pela militância e por inúmeros setores da sociedade civil, entrou na
+            disputa por uma vaga na Câmara Federal. Venceu com uma expressiva votação com 193 108 mil votos - a segunda
+            parlamentar federal mais votada no estado nas eleições de 2018. É a quarta mulher eleita deputada federal na
+            história de Pernambuco.
+        </p>
     </article>
     <div class="container" id="gallery-container">
         <div class="col-12 p-4">

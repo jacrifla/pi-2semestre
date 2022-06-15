@@ -30,6 +30,7 @@
           acontecerá em outubro de
           2022. Iremos listar alguns dos pricipais candidados ao cargo de Senadores.
           Falaremos um pouco de suas trajetorias politica.</p>
+          <p>Por se tratar de pré-candidatura até o presado momento não obtivemos informações sobre suas propostas mas você pode conferir com mais detalhes quais são suas funções em nossa página <a href="cargos.html" id="funcoes">Cargos</a>.</p>
       </div>
     </article>
 

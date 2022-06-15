@@ -13,15 +13,21 @@
 </head>
 
 <body id="referencias">
+  <?php include_once('php/header.php'); ?>
+
   <main class="container">
     <h1 class="fs-2 my-4 text-decoration-underline">Referências</h1>
     <section id="#Conceitos">
       <h2 class="fs-4">Conceitos</h2>
       <hr>
       <ul>
-        <li><a href="https://blog.grancursosonline.com.br/nocoes-de-cidadania-parte-3/#:~:text=A%20cidadania%20formal%20%C3%A9%2C%20conforme,direitos%20civis%2C%20pol%C3%ADticos%20e%20sociais." target="_blank">"Noções de Cidadania"</a>. Gran Cursos Online. Acesso em Junho de 2022 </li>
-        <li><a href="https://brasilescola.uol.com.br/sociologia/cidadania-ou-estadania.htm" target="_blank">"Conceito de Cidadania"</a>. Brasil Escola. Acesso em Junho de 2022 </li>
-        <li><a href="https://www.significados.com.br/autoritarismo/" target="_blank">"Significado de Autoritarismo"</a>. Significados. Acesso em Junho de 2022 </li>
+        <li><a
+            href="https://blog.grancursosonline.com.br/nocoes-de-cidadania-parte-3/#:~:text=A%20cidadania%20formal%20%C3%A9%2C%20conforme,direitos%20civis%2C%20pol%C3%ADticos%20e%20sociais."
+            target="_blank">"Noções de Cidadania"</a>. Gran Cursos Online. Acesso em Junho de 2022 </li>
+        <li><a href="https://brasilescola.uol.com.br/sociologia/cidadania-ou-estadania.htm" target="_blank">"Conceito de
+            Cidadania"</a>. Brasil Escola. Acesso em Junho de 2022 </li>
+        <li><a href="https://www.significados.com.br/autoritarismo/" target="_blank">"Significado de Autoritarismo"</a>.
+          Significados. Acesso em Junho de 2022 </li>
       </ul>
     </section>
     <section id="#Tripartite">
@@ -40,16 +46,20 @@
       <h2 class="fs-4">Candidaturas</h2>
       <hr>
       <ul>
-        <li><a href="https://www.infomoney.com.br/perfil/jair-bolsonaro/" target="_blank">Perfil Bosonaro</a>. Acesso em
+        <li><a href="https://www.infomoney.com.br/perfil/jair-bolsonaro/" target="_blank">Candidato Bosonaro</a>. Acesso
+          em
           Maio de 2022 </li>
-        <li><a href="https://www.infomoney.com.br/perfil/luiz-inacio-lula-da-silva/" target="_blank">Perfil
+        <li><a href="https://www.infomoney.com.br/perfil/luiz-inacio-lula-da-silva/" target="_blank">Candidato
             Lula</a>. Acesso em Maio de 2022 </li>
-        <li><a href="https://www.infomoney.com.br/perfil/ciro-gomes/" target="_blank">Perfil Ciro</a>. Acesso em Maio de
-          2022 </li>
-        <li><a href="https://www.infomoney.com.br/perfil/joao-doria/" target="_blank">Perfil Doria</a>. Acesso em Maio
+        <li><a href="https://www.infomoney.com.br/perfil/ciro-gomes/" target="_blank">Candidato Ciro</a>. Acesso em Maio
           de
           2022 </li>
-        <li><a href="https://www.infomoney.com.br/perfil/sergio-moro/" target="_blank">Perfil Moro</a>. Acesso em Maio
+        <li><a href="https://www.infomoney.com.br/perfil/joao-doria/" target="_blank">Candidato Doria</a>. Acesso em
+          Maio
+          de
+          2022 </li>
+        <li><a href="https://www.infomoney.com.br/perfil/sergio-moro/" target="_blank">Candidato Moro</a>. Acesso em
+          Maio
           de
           2022 </li>
         <li><a href="https://www.bbc.com/portuguese/brasil-61350824" target="_blank">Propostas Candidatos</a>. Acesso em
@@ -64,11 +74,15 @@
         <li><a href="https://brasil123.com.br/carlos-moises-ou-carlos-moises-da-silva-nasceu-na-cidade-de-florianopolis-santa-catarina-em-17-08-1967-ele-possui-como-formacao-um-bacharelado-em-direito/
 " target="_blank">Candidato Carlos Moises</a>. Acesso em
           Maio de 2022
-        <li><a href="https://memoriapolitica.alesc.sc.gov.br/biografia/1308-Carlos_Moises" target="_blank">Candidato Carlos Moises</a>. Acesso em
+        <li><a href="https://memoriapolitica.alesc.sc.gov.br/biografia/1308-Carlos_Moises" target="_blank">Candidato
+            Carlos Moises</a>. Acesso em
           Maio de 2022
-        <li><a href="https://pt.wikipedia.org/wiki/Fl%C3%A1via_Arruda" target="_blank">Candidata Flavia Arruda</a>. Acesso em
+        <li><a href="https://pt.wikipedia.org/wiki/Fl%C3%A1via_Arruda" target="_blank">Candidata Flavia Arruda</a>.
+          Acesso em
           Maio de 2022
-
+        <li><a href="https://www.ebiografia.com/marilia_arraes/" target="_blank">Candidata Flavia Arruda</a>.
+          Acesso em
+          Maio de 2022
 
       </ul>
     </section>
@@ -107,13 +121,21 @@
       <h2 class="fs-4">Linha do Tempo e Galeria</h2>
       <hr>
       <ul>
-        <li><a href="https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil" target="_blank">"Lista dos Presidentes
+        <li><a href="https://pt.wikipedia.org/wiki/Lista_de_presidentes_do_Brasil" target="_blank">"Lista dos
+            Presidentes
             do Brasil"</a>. Wikipédia. Acesso em Maio de 2022 </li>
         <li><a href="https://pt.wikipedia.org/wiki/Supremo_Tribunal_Federal" target="_blank">"Supremo Tribunal
             Federal"</a>. Wikipédia. Acesso em Maio de 2022 </li>
       </ul>
     </section>
   </main>
+  <?php include_once('php/footer.php'); ?>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+    integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous">
+  </script>
+
+
 </body>
 
 </html>
