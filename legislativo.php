@@ -21,7 +21,7 @@
             <article class="d-flex row">
                 <h1 class="text-center">Legislativo</h1>
                 <div class="d-flex flex-wrap justify-content-center align-items-center">
-                    <img class="img-fluid order-1 order-lg-2 p-3" src="imagens/legislativo.jpg" alt="">
+                    <img class="img-fluid order-1 order-lg-1 p-3" src="imagens/legislativo.jpg" alt="">
                     <p class="mx-5 order-2 order-lg-1 col-lg-4">No Brasil o Poder Legislativo é constituído por um sistema bicameral, composto pelo Congresso Nacional. Divide-se entre as Câmera dos Deputados, que representam o povo, e O Senado Federal para representar os Estados enquanto Unidades Federativas. Nas esferas Municipais e Estaduais, são os Vereadores e Deputados Estaduais que representam respectivamente. Cada estado é representado por 3 Senadores que são eleitos por votação, para ficar 8 anos de mandato. Já os Deputados ou Vereadores tem mandatos de 4 anos. O instrumento legislativo recebe a denominação de Parlamento, câmara, Assembleia Nacional ou Congresso Nacional.
                     O poder Legislativo tem como função criar, modificar e anular as leis que regem o país, ou seja, ele legisla. Além de vigiar o executivo ao cumprimento das leis.
                     Em regimes ditatoriais, o Poder Legislativo é exercido pelo próprio ditador ou por uma câmara legislativa nomeada por ele.
